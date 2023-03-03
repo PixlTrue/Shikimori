@@ -1,0 +1,201 @@
+/*  */
+/*  */
+/* Смайлики */
+img.smiley {
+    background-size: 32px 32px;
+    overflow: hidden;
+    width: 32px;
+}
+img[src$="/images/smileys/:depressed2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/42691d4f0f35b6bcfa3ae4009c0dae09_834757971416485741.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:oh:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/bed301f0565c17857f68791383406e3e_5433006696045055511.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:revenge:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/5f283599530abe6e8d09f50bb14b7b2a_4679747953190132107.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:love2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/6140278dd84c457f11e00d3792cbf099_3944359462204262045.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:happy_cry:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/94f93d898c18e70eb1820f9a83b37f7d_2734402687867146709.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:thumbup:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/7c1758ad496403fd22e6004fc47688d7_122991558985112283.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:star:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/32582224e59281db598de0a7b789e236_6661065028593495865.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:tea2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/05/12/1444c691ce107dd6f412520194ba7815_5241676026911770410.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shocked3:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/05/12/e502eb7e4c5f0caba55bca4e0e7cd3ed_7599097940475832185.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:Happy Birthday:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/1364469419947815504f1e2885be0150_4271137375081909882.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/eb0bf4500c43d2225adcb2ab303f06ff_435327528392385368.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:twisted:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/2f55e1f199efc29f3c4e9076d3288365_7013897107954424230.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:evil:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/7571bb2197d52e92d30580fe6a1c246d_2814059967494326002.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:evil2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/f3c5294aa2aeb7e1e34f0cc32c14d45e_3875259619869260379.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:sleep:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/05/12/44b7350758d7fb29ba1e3d58b5bedd00_352884064427008164.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:gaze:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/7f779636a47eb13c250bc9c6367ebd0d_8259216778620272532.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:ooph:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/022a8a3746a51392ca5bba4883546c88_3918475580606030081.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hope:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/1d19e4ebba7f763c23fa5a257f2df8a5_3825527266779439626.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hot:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/836d62a3a7f94b17079c6e4ec79192f1_4559439987895171506.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:cry:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/47ddf01d34e9a87f7dff3dfc618dd936_8998940943316629395.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:oh2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/d26451b3d5a96f1539e49f9ed6d7243a_3765538984649249322.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hope3:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/cdf43782c615e0a7f871d92c64bec0a9_1088253528936134356.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/+_+.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/d9f8b7eef89b2d80bddff05242e0b7a3_5569110456108249766.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:strange:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/c0aad74f797e90f3ca6bafdd7d77b1e7_6625900122424227248.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:s2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/8b18118bfd54cb4eeee2dafcb90a52c5_4720519614376335712.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:s3:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/912d9abf4c156f51367e41256395fa08_5659649110301141399.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:advise:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/4c9f88bd060da3bbca756134635845c2_6716013048319903165.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bdl2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/122c2c47febd1263679a60879cabca54_3870085210537816405.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:roll:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/d40ff83b8e8a246c4c34edb95269e852_1724311471220216210.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:-o.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/32c866cf2fc83076c6ff974968fa2674_9113596049053848725.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:flute:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/4ad374062b63dbc3d4c5911986c03c4a_8926406062927288661.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bow:.gif"] {
+    background: url(https://img-os-static.hoyolab.com/communityWeb/upload/1e16a881b95a62718d6355205f693c28.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hopelles:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/05/12/6b46bb4360bf7a9132a9ab061b43ce50_252167555488128248.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:study2:.gif"] {
+    background: url(https://img-os-static.hoyolab.com/communityWeb/upload/26b2fc52187ab70e06ec37699ceb67ac.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:love:.gif"] {
+    background: url(https://img-os-static.hoyolab.com/communityWeb/upload/16ca0045106b892d5443d3b626d8539f.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:yahoo:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/5a3ce434c5412bfe02f78a33aaa3f7f2_843725108637061971.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:evil3:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/05/12/5db8b38f5fa0c55b90c91ca663ab300d_120708595798227487.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:smoker2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/9f2fd95523cca60843336d0aa14b225f_2127491934101263634.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+/*  */
+/*  */
+/*  */
