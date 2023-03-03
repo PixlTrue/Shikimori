@@ -1,5 +1,3 @@
-/*  */
-/*  */
 /* Смайлики */
 img.smiley {
     background-size: 32px 32px;
@@ -196,6 +194,3 @@ img[src$="/images/smileys/:smoker2:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
-/*  */
-/*  */
-/*  */
