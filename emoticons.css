@@ -270,12 +270,12 @@ img[src$="/images/smileys/:!:.gif"] {
 }
 img[src$="/images/smileys/:interested:.gif"] {
     background: url(https://cdn.7tv.app/emote/644d64579d0ff0a50aaadb4e/4x.webp) no-repeat; 
-    width: 51px;
     padding-bottom: 32px;
     background-size: cover;
 }
 img[src$="/images/smileys/:study2:.gif"] {
     background: url(https://moe.shikimori.me/system/images/original/134352.gif) no-repeat; 
+    width: 51px;
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -287,6 +287,7 @@ img[src$="/images/smileys/:study3:.gif"] {
 }
 img[src$="/images/smileys/:flute:.gif"] {
     background: url(https://desu.shikimori.me/system/images/original/134348.gif) no-repeat; 
+    width: 51px;
     padding-bottom: 32px;
     background-size: cover;
 }
