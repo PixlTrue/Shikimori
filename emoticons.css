@@ -44,7 +44,7 @@ img[src$="/images/smileys/:tea2:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
-img[src$="/images/smileys/:tea shok:.gif"] {
+img[src$="/images/smileys/:tea shock:.gif"] {
     background: url(https://cdn.7tv.app/emote/644c720670a213f616c7a608/4x.webp) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
@@ -64,7 +64,7 @@ img[src$="/images/smileys/:angry:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
-img[src$="/images/smileys/:twisted:.gif"] {
+img[src$="/images/smileys/:angry4:.gif"] {
     background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/2f55e1f199efc29f3c4e9076d3288365_7013897107954424230.png) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
@@ -210,7 +210,8 @@ img[src$="/images/smileys/:V3:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:whip:.gif"] {
-    background: url(https://upload-os-bbs.hoyolab.com/upload/2023/03/13/2745ba9ead9f80e0a20ec6f9e93ab855_1047407115786553718.png) no-repeat; 
+    background: url(https://cdn.7tv.app/emote/644d45829d0ff0a50aaad8f7/4x.webp) no-repeat; 
+    width: 71px;
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -232,9 +233,41 @@ img[src$="/images/smileys/:disappointment:.gif"] {
 img[src$="/images/smileys/:sarcasm:.gif"] {
     width: 40px;
 }
-img[src$="/images/smileys/:angry2:.gif"] { 
-    width: 64px;
-}
 img[src$="/images/smileys/:kya:.gif"] {
     width: 64px;
+}
+img[src$="/images/smileys/:kiss:.gif"] {
+    background: url(https://cdn.7tv.app/emote/63ee09c05f5e0bfb600b7782/4x.webp) no-repeat; 
+    width: 45px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bye:.gif"] {
+    background: url(https://cdn.7tv.app/emote/63ee09c05f5e0bfb600b7782/4x.webp) no-repeat; 
+    width: 57px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry3:.gif"] {
+    background: url(https://cdn.7tv.app/emote/628e3d7badc5e81118ca238d/4x.webp) no-repeat; 
+    width: 57px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry2:.gif"] {
+    background: url(https://cdn.7tv.app/emote/644b676802d65be125e1da74/4x.webp) no-repeat; 
+    width: 71px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:twisted:.gif"] {
+    background: url(https://cdn.7tv.app/emote/644b676802d65be125e1da74/4x.webp) no-repeat; 
+    width: 50px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bdl:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6423ce5d4afbf7fe3f1ebcde/4x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
 }
