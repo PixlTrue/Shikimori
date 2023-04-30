@@ -262,7 +262,8 @@ img[src$="/images/smileys/:twisted:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:bdl:.gif"] {
-    background: url(https://cdn.7tv.app/emote/6423ce5d4afbf7fe3f1ebcde/4x.webp) no-repeat; 
+    background: url(https://64.media.tumblr.com/9849f2677066fb167acdaca8aac7608e/d9063e987c87dce2-9f/s400x600/762f80071408d74c94b5b381aaa93aa81780a6f4.gifv) no-repeat; 
+    width: 51px;
     padding-bottom: 32px;
     background-size: cover;
 }
