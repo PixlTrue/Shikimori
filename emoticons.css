@@ -229,3 +229,12 @@ img[src$="/images/smileys/:disappointment:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
+img[src$="/images/smileys/:sarcasm:.gif"] {
+    width: 40px;
+}
+img[src$="/images/smileys/:angry2:.gif"] { 
+    width: 64px;
+}
+img[src$="/images/smileys/:kya:.gif"] {
+    width: 64px;
+}
