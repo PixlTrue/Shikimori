@@ -174,11 +174,6 @@ img[src$="/images/smileys/:hopelles:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
-img[src$="/images/smileys/:study2:.gif"] {
-    background: url(https://img-os-static.hoyolab.com/communityWeb/upload/26b2fc52187ab70e06ec37699ceb67ac.png) no-repeat; 
-    padding-bottom: 32px;
-    background-size: cover;
-}
 img[src$="/images/smileys/:love:.gif"] {
     background: url(https://img-os-static.hoyolab.com/communityWeb/upload/16ca0045106b892d5443d3b626d8539f.png) no-repeat; 
     padding-bottom: 32px;
@@ -278,7 +273,7 @@ img[src$="/images/smileys/:interested:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:study2:.gif"] {
-    background: url(https://upload-os-bbs.hoyolab.com/upload/2022/09/02/102177407/3cf56da0de59ffd6a6a3706e089e5bcd_8488090151786451384.gif) no-repeat; 
+    background: url(https://moe.shikimori.me/system/images/original/134347.gif) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
 }
