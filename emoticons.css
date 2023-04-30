@@ -278,12 +278,7 @@ img[src$="/images/smileys/:study2:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:flute:.gif"] {
-    background: url(https://64.media.tumblr.com/23ff143f5177c63896cabe3cc8a9d0c1/d9063e987c87dce2-e5/s1280x1920/7bcce36eb78edf7fbeaa61128d43f4f96dd135f4.gif) no-repeat; 
-    padding-bottom: 32px;
-    background-size: cover;
-}
-img[src$="/images/smileys/:flute:.gif"] {
-    background: url(https://64.media.tumblr.com/23ff143f5177c63896cabe3cc8a9d0c1/d9063e987c87dce2-e5/s1280x1920/7bcce36eb78edf7fbeaa61128d43f4f96dd135f4.gif) no-repeat; 
+    background: url(https://desu.shikimori.me/system/images/original/134348.gif) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
 }
