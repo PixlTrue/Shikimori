@@ -189,11 +189,6 @@ img[src$="/images/smileys/:yahoo:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
-img[src$="/images/smileys/:evil3:.gif"] {
-    background: url(https://upload-bbs.mihoyo.com/upload/2022/05/12/5db8b38f5fa0c55b90c91ca663ab300d_120708595798227487.png) no-repeat; 
-    padding-bottom: 32px;
-    background-size: cover;
-}
 img[src$="/images/smileys/:smoker2:.gif"] {
     background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/9f2fd95523cca60843336d0aa14b225f_2127491934101263634.png) no-repeat; 
     padding-bottom: 32px;
