@@ -243,7 +243,7 @@ img[src$="/images/smileys/:kiss:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:bye:.gif"] {
-    background: url(https://cdn.7tv.app/emote/63ee09c05f5e0bfb600b7782/4x.webp) no-repeat; 
+    background: url(https://cdn.7tv.app/emote/63e981e2efb47752e7c482a1/4x.webp) no-repeat; 
     width: 57px;
     padding-bottom: 32px;
     background-size: cover;
@@ -268,6 +268,16 @@ img[src$="/images/smileys/:twisted:.gif"] {
 }
 img[src$="/images/smileys/:bdl:.gif"] {
     background: url(https://cdn.7tv.app/emote/6423ce5d4afbf7fe3f1ebcde/4x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:!:.gif"] {
+    background: url(https://cdn.7tv.app/emote/63ea1176d84f8e2564c2b0d4/4x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:interested:.gif"] {
+    background: url(https://cdn.7tv.app/emote/644d64579d0ff0a50aaadb4e/4x.webp) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
 }
