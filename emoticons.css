@@ -273,12 +273,22 @@ img[src$="/images/smileys/:interested:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:study2:.gif"] {
+    background: url(https://moe.shikimori.me/system/images/original/134352.gif) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:study3:.gif"] {
     background: url(https://moe.shikimori.me/system/images/original/134347.gif) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
 }
 img[src$="/images/smileys/:flute:.gif"] {
     background: url(https://desu.shikimori.me/system/images/original/134348.gif) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:wink:.gif"] {
+    background: url(https://kawai.shikimori.me/system/images/original/134351.gif) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
 }
