@@ -120,7 +120,7 @@ img[src$="/images/smileys/:hope3:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/+_+.gif"] {
-    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/d9f8b7eef89b2d80bddff05242e0b7a3_5569110456108249766.png) no-repeat; 
+    background: url(https://cdn.discordapp.com/emojis/1070360296490795069.webp) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -144,7 +144,7 @@ img[src$="/images/smileys/:advise:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
-img[src$="/images/smileys/:bdl2:.gif"] {
+img[src$="/images/smileys/:smoker:.gif"] {
     background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/122c2c47febd1263679a60879cabca54_3870085210537816405.png) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
@@ -166,7 +166,7 @@ img[src$="/images/smileys/:flute:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:bow:.gif"] {
-    background: url(https://img-os-static.hoyolab.com/communityWeb/upload/1e16a881b95a62718d6355205f693c28.png) no-repeat; 
+    background: url(https://cdn.discordapp.com/emojis/896455456866848798.webp) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -257,7 +257,7 @@ img[src$="/images/smileys/:twisted:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
-img[src$="/images/smileys/:bdl:.gif"] {
+img[src$="/images/smileys/:bdl2:.gif"] {
     background: url(https://dere.shikimori.me/system/images/original/134349.gif) no-repeat; 
     width: 51px;
     padding-bottom: 32px;
@@ -292,7 +292,58 @@ img[src$="/images/smileys/:flute:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:wink:.gif"] {
-    background: url(https://kawai.shikimori.me/system/images/original/134351.gif) no-repeat; 
+    background: url(https://cdn.discordapp.com/emojis/952770597883113522.gif) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hunf:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/967404640775835648.webp) no-repeat;
+    width: 29px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hi:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/1071963823268974694.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bdl:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/902221983629049946.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:prcl:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/895020665915207720.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:stress:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/909445263595274280.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shock:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/902221983582924800.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:scream:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/1100434141490729073.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:dont listen:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/1070725854985986088.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:-P.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/1071963820601384960.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:cool2:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/896747464533618778.webp) no-repeat;
     padding-bottom: 32px;
     background-size: cover;
 }
