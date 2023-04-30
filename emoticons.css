@@ -276,3 +276,13 @@ img[src$="/images/smileys/:interested:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
+img[src$="/images/smileys/:study2:.gif"] {
+    background: url(https://upload-os-bbs.hoyolab.com/upload/2022/09/02/102177407/3cf56da0de59ffd6a6a3706e089e5bcd_8488090151786451384.gif) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:flute:.gif"] {
+    background: url(https://64.media.tumblr.com/23ff143f5177c63896cabe3cc8a9d0c1/d9063e987c87dce2-e5/s1280x1920/7bcce36eb78edf7fbeaa61128d43f4f96dd135f4.gif) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
