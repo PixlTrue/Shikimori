@@ -1,0 +1,281 @@
+  /* Клубы в меню */
+  .b-clubs-menu .clubs .b-club {
+    margin: 2px;
+  }
+  /***/
+  .b-clubs-menu .clubs .b-club {
+    position: relative;
+    background: rgba(222, 200, 165, 0.6);
+    border: 2px solid #e3bd7e;
+    border-radius: 4px;
+  }
+  /***/
+  /* картинка в клубе */
+  .b-club .logo {
+  display: none;
+  }
+  .b-club .name-logo::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 15px;
+    right: 0;
+    left: 0;
+    width: 64px;
+    height: 64px;
+    margin: auto;
+    background-size: cover; 
+    border-radius: 50%;
+  }
+  /* * */
+  /* Имя клуба ("В центре") */
+  .b-club .name {
+    font-size: 12px;
+    margin-top: 15px; 
+    text-align: center;
+    font-family: Garamond (serif);
+  }
+.b-club .name-logo:hover .name {
+color: #ffe9c3;
+}
+/* Название клуба и ссылка на автора */
+  /* Особый цвет обводки аватара клубов */
+/* Azur Lane */
+  .b-club[id='2538'] .name-logo::before {
+    border: 2px solid #c8def4;
+  }
+/* Genshin Impact */
+  .b-club[id='3057'] .name-logo::before {
+    border: 2px solid white;
+  }
+/* Fate/Grand Order */
+  .b-club[id='873'] .name-logo::before {
+    border: 2px solid #053b7c;
+  }
+  /* Клуб двух лисичек */
+  .b-club[id='4391'] .name-logo::before {
+    border: 2px solid pink;
+  }
+  /* Blue Archive */
+  .b-club[id='4441'] .name-logo::before {
+    border: 2px solid #bff5fe;
+  }
+/* цвет названия клуба */
+  /* Azur Lane */
+  .b-club[id='2538'] .name {
+    color: white;
+  }
+  .b-club[id='2538'] a {
+    color: white;
+  }
+  /* Genshin Impact */
+  .b-club[id='3057'] .name {
+    color: white;
+  }
+  .b-club[id='3057'] a {
+    color: white;
+  }
+  /* Fate/Grand Order */
+  .b-club[id='873'] .name {
+    color: white;
+  }
+  .b-club[id='873'] a {
+    color: white;
+  }
+  /* Клуб двух лисичек */
+  .b-club[id='4391'] .name {
+    color: #f99dc8;
+}
+  .b-club[id='4391'] a {
+      color: pink;
+}
+  /* Blue Archive */
+  .b-club[id='4441'] .name {
+    color: white;
+}
+  .b-club[id='4441'] a {
+      color: white;
+}
+/* цвет при наводке на автора клуба */
+  /* Azur Lane */
+  .b-club[id='2538'] a:hover {
+    color: #ffe9c3;
+  }
+  /* Genshin Impact */
+  .b-club[id='3057'] a:hover {
+    color: #ffe9c3;
+  }
+  /* Fate/Grand Order */
+  .b-club[id='873'] a:hover {
+    color: #ffe9c3;
+  }
+  /* Клуб двух лисичек */
+  .b-club[id='4391'] a:hover {
+    color: #ffe9c3;
+  }
+  /* Blue Archive */
+  .b-club[id='4441'] a:hover {
+    color: #ffe9c3;
+  }
+  /***/
+  /* Конец. Особый цвет клубов */
+  /* Описание клуба */
+  .b-club .info {
+    font-size: 10px;
+    margin: 2px;
+  }
+  .b-club .info .number, .b-club .info .value, .b-club .info .grouped:after {
+    color: rgb(50, 50, 50);
+    font-size: 8px;
+    color: gold;
+  }
+  /* Картинка админов в описании клуба */
+  .b-club .info.author img {
+    border-radius: 50%; 
+  }
+  /* Картинки клубов */
+/* Azur Lane */
+  .b-clubs-menu .clubs .b-club[id='2538']::before {
+    background-image: url(https://desu.shikimori.me/system/user_images/original/74033/875598.jpg);
+    background-size: 110%;
+  }
+  .b-club[id='2538'] .name-logo::before {
+    background-image: url(https://desu.shikimori.me/system/clubs/main/2538.jpg);
+  }
+/* Genshin Impact */
+  .b-clubs-menu .clubs .b-club[id='3057']::before {
+    background-image: url(https://images5.alphacoders.com/109/1099191.jpg);
+  }
+  .b-club[id='3057'] .name-logo::before {
+    background-image: url(https://moe.shikimori.me/system/clubs/main/3057.jpeg?1604870647);
+  }
+/* Fate/Grand Order */
+  .b-clubs-menu .clubs .b-club[id='873']::before {
+    background-image: url(https://dere.shikimori.me/system/images/original/109199.jpg);
+  }
+  .b-club[id='873'] .name-logo::before {
+    background-image:  url(https://desu.shikimori.me/system/clubs/main/873.png);
+  }
+/* Клуб двух лисичек */
+  .b-clubs-menu .clubs .b-club[id='4391']::before {
+    background-image: url(https://nyaa.shikimori.me/system/user_images/original/464837/2129580.jpg);
+    background-size: 150%;
+    background-position: bottom -80px right -65px;
+  }
+  .b-club[id='4391'] .name-logo::before {
+    background-image: url(https://kawai.shikimori.me/system/clubs/main/4391.png?1675866221);
+    background-position: right;
+  }
+/* Blue Archive */
+  .b-clubs-menu .clubs .b-club[id='4441']::before {
+    background-image: url(https://rare-gallery.com/mocahbig/427490-blue-archive-anime-sky-star-trails.png);
+  }
+  .b-club[id='4441'] .name-logo::before {
+    background-image: url(https://kawai.shikimori.me/system/clubs/main/4441.png?1678560536);
+    background-position: right;
+  }
+  /* Конец. Картинки клубов */
+  /***/
+  /* картинка в клубе */
+  .b-clubs-menu .clubs .b-club::before {
+    content: '';
+    display: block;
+    height: 100px;
+    background-size: cover;
+    border-radius: 4px 4px 0 0;
+    opacity: .6;
+    margin: -12px; /* вот тут поправить и найти*/
+  }
+  .b-clubs-menu .clubs .b-club:after {
+    clear: left;
+    display: block;
+    content: ' ';
+  }
+  /***/
+  /* Конец. Клубы в меню*/
+ /*______*/
+ /* Клубы в вкладке "клубы" */
+ /*______*/
+.b-clubs.index .b-club {
+  position: relative;
+background: rgba(222, 200, 165, 0.6);
+border: 2px solid #e3bd7e;
+border-radius: 4px;
+margin-right: 5%;
+}
+.b-clubs.index .b-club {
+width: 30%;
+}
+.b-clubs.index .b-club::before {
+content: '';
+display: block;
+height: 100px;
+background-size: cover;
+border-radius: 4px 4px 0 0;
+opacity: .6;
+margin: -12px; /* вот тут поправить и найти*/
+}
+.b-clubs.index .b-club:after {
+clear: left;
+display: block;
+content: ' ';
+}
+/* Картинки клубов */
+/* Azur Lane */
+.b-clubs.index  .b-club[id='2538']::before {
+background-image: url(https://desu.shikimori.me/system/user_images/original/74033/875598.jpg);
+      background-size: 110%;
+}
+/* Genshin Impact */
+.b-clubs.index  .b-club[id='3057']::before {
+background-image: url(https://images5.alphacoders.com/109/1099191.jpg);
+}
+/* Fate/Grand Order */
+.b-clubs.index  .b-club[id='873']::before {
+background-image: url(https://dere.shikimori.me/system/images/original/109199.jpg);
+}
+/* Клуб двух лисичек */
+.b-clubs.index .b-club[id='4391']::before {
+background-image: url(https://nyaa.shikimori.me/system/user_images/original/464837/2129580.jpg);
+background-size: 150%;
+background-position: bottom -80px right -65px;
+}
+/* Blue Archive */
+.b-clubs.index .b-club[id='4441']::before {
+background-image: url(https://rare-gallery.com/mocahbig/427490-blue-archive-anime-sky-star-trails.png);
+}
+/*______*/
+/* Конец. Клубы в вкладке "клубы" */
+/*______*/
+  /* 18+ в клубах */
+  .b-club.censored .name::before {
+    content: "🛇";
+    content: "18+";
+    position: absolute;
+    top: var(--bg-height);
+    right: 8px;
+    width: 36px;
+    background-color: #e3bd7e;
+    border-radius: 16px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: -1px;
+    text-align: center;
+    transform: translateY(-50%);
+}
+  /* Конец 18+ в клубах */
+  /* Дополнительно 18+ в клубах */
+  .b-club {
+    --padding: 12px;
+    --bg-height: 100px;
+    --logo-height: 64px;
+    --br: 5px;
+    --block-transitions: .3s ease;
+    position: relative;
+    padding: var(--padding, 12px);
+    border: thin solid var(--headline-border-color);
+    border-radius: var(--br);
+}
+  /* Конец. Дополнительно 18+ в клубах */
