@@ -257,7 +257,7 @@ img[src$="/images/smileys/:twisted:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
-img[src$="/images/smileys/:bdl2:.gif"] {
+img[src$="/images/smileys/:frozen3:.gif"] {
     background: url(https://dere.shikimori.me/system/images/original/134349.gif) no-repeat; 
     width: 51px;
     padding-bottom: 32px;
@@ -344,6 +344,22 @@ img[src$="/images/smileys/:-P.gif"] {
 }
 img[src$="/images/smileys/:cool2:.gif"] {
     background: url(https://cdn.discordapp.com/emojis/896747464533618778.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hurray:.gif"] {
+    background: url(https://dere.shikimori.me/system/images/original/134359.webp) no-repeat;
+    width: 38px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:cry3:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/895020666020053022.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bdl2:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/895020666271694858.webp) no-repeat;
     padding-bottom: 32px;
     background-size: cover;
 }
