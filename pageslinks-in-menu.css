@@ -1,0 +1,319 @@
+/* Коллекции */
+.b-clubs-menu > .block > .b-menu-line > .b-link {
+    display: block;
+    font-family: "Lobster rev=2";
+    font-size: 16px;
+    color: white;
+    border: 2px solid #e5ad61;
+    border-radius: 6px;
+    text-align: center;
+    background: #e8c089;
+    text-decoration: none;
+    margin-top: 1px; /* отступ между коллекциями */
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.b-clubs-menu > .block > .b-menu-line > .b-link:hover {
+    color: white;
+    background: #fadaae;
+    border-color: white;
+}
+.b-anime_status_tag.other {
+    background-color: #e8c089;
+    border-color: #e5ad61;
+}
+.b-critique_votes:before,
+.b-status-line .section.main .collection-size,
+.b-status-line .section.main .comments:before,
+.b-status-line .section.created_at time:before {
+ color: #ddd; 
+}
+/* Страницы */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link {
+    width: 100%;
+    padding: 8px 0px;
+    margin: 2px; /* отступ между страницами */
+    text-align: center;
+    text-decoration: none;
+    background: #e8c089;
+    background-size: cover;
+    border: 2px solid #e5ad61;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.b-clubs-menu > .block > .block > .b-menu-line {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: calc(100% / 2);
+}
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link:hover {
+    color: white;
+    background: #fadaae;
+    border-color: white;
+}
+/* Отдельные стили для страниц */
+/* Цвет стихий */
+/* Fire */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3926"] {
+    background: #e8c0;
+    border-color: #E62A29;
+    color: #E62A29;
+}
+/* Ice */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3931"] {
+    background: #e8c0;
+    border-color: #2192D6;
+    color: #2192D6;
+}
+/* Imaginary */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3927"] {
+    background: #e8c0;
+    border-color: #E5B909;
+    color: #E5B909;
+}
+/* Lightning */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3928"] {
+    background: #e8c0;
+    border-color: #B54BD3;
+    color: #B54BD3;
+}
+/* Physical */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3929"] {
+    background: #e8c0;
+    border-color: #71718c;
+    color: #71718c;
+}
+/* Quantum */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3930"] {
+    background: #e8c0;
+    border-color: #4F48BD;
+    color: #4F48BD;
+}
+/* Wind */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3932"] {
+    background: #e8c0;
+    border-color: #42C38C;
+    color: #42C38C;
+}
+/* Цвет краев */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3926"]:hover,
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3931"]:hover,
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3927"]:hover,
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3928"]:hover,
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3929"]:hover,
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3930"]:hover,
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3932"]:hover {
+    border-color: white;
+}
+/* Картинки персонажей на страницах */
+/* 5 (★) */
+/* Bailu */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3884"] {
+    background: url(https://moe.shikimori.me/system/images/original/132287.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Blade */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3887"] {
+    background: url(https://desu.shikimori.me/system/images/original/132288.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Bronya */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3888"] {
+    background: url(https://dere.shikimori.me/system/images/original/132289.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Clara */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3889"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/132290.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Fu Xuan */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3890"] {
+    background: url(https://kawai.shikimori.me/system/images/original/132291.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Gepard */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3891"] {
+    background: url(https://moe.shikimori.me/system/images/original/132292.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Himeko */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3892"] {
+    background: url(https://desu.shikimori.me/system/images/original/132293.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Jing Yuan */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3893"] {
+    background: url(https://dere.shikimori.me/system/images/original/132294.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Kafka */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3894"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/132295.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Luocha */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3895"] {
+    background: url(https://kawai.shikimori.me/system/images/original/132296.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Seele */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3896"] {
+    background: url(https://moe.shikimori.me/system/images/original/132297.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Silver Wolf */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3897"] {
+    background: url(https://desu.shikimori.me/system/images/original/132298.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Trailblazer */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3898"] {
+    background: url(https://dere.shikimori.me/system/images/original/132299.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Welt */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3899"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/132300.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Yanqing */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3901"] {
+    background: url(https://kawai.shikimori.me/system/images/original/132301.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* 4 (★) */
+/* Arlan */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3871"] {
+    background: url(https://desu.shikimori.me/system/images/original/132313.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Asta */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3872"] {
+    background: url(https://moe.shikimori.me/system/images/original/132302.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Dan Heng */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3873"] {
+    background: url(https://desu.shikimori.me/system/images/original/132303.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Herta */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3874"] {
+    background: url(https://dere.shikimori.me/system/images/original/132304.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Hook */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3875"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/132305.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* March 7th */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3876"] {
+    background: url(https://kawai.shikimori.me/system/images/original/132306.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Natasha */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3877"] {
+    background: url(https://dere.shikimori.me/system/images/original/132314.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Pela */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3878"] {
+    background: url(https://moe.shikimori.me/system/images/original/132307.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Qingque */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3879"] {
+    background: url(https://desu.shikimori.me/system/images/original/132308.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Sampo */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3880"] {
+    background: url(https://dere.shikimori.me/system/images/original/132309.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Serval */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3881"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/132310.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Sushang */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3882"] {
+    background: url(https://kawai.shikimori.me/system/images/original/132311.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Tingyun */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3883"] {
+    background: url(https://moe.shikimori.me/system/images/original/132312.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* NPC */
+/* Pom-Pom */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3906"] {
+    background: url(https://moe.shikimori.me/system/images/original/132337.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
