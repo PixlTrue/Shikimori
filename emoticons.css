@@ -363,3 +363,27 @@ img[src$="/images/smileys/:bdl2:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
+img[src$="/images/smileys/:very sad:.gif"] {
+    background: url(https://moe.shikimori.me/system/images/original/134397.gif) no-repeat;
+    width: 23px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:evil3:.gif"] {
+    background: url(https://kawai.shikimori.me/system/images/original/134396.gif) no-repeat;
+    width: 34px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:happy3:.gif"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/134395.gif) no-repeat;
+    width: 24px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bored:.gif"] {
+    background: url(https://dere.shikimori.me/system/images/original/134394.gif) no-repeat;
+    width: 28px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
