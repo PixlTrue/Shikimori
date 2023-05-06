@@ -387,3 +387,9 @@ img[src$="/images/smileys/:bored:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
+img[src$="/images/smileys/:Warning:.gif"] {
+    background: url(https://desu.shikimori.me/system/images/original/134458.jpg) no-repeat;
+    width: 40px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
