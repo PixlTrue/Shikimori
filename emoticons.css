@@ -393,3 +393,9 @@ img[src$="/images/smileys/:Warning:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
+img[src$="/images/smileys/:shock2:.gif"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/134520.gif) no-repeat;
+    width: 42px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
