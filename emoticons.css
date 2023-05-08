@@ -399,3 +399,49 @@ img[src$="/images/smileys/:shock2:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
+img[src$="/images/smileys/:8):.gif"] {
+    background: url(https://desu.shikimori.me/system/images/original/134538.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:water:.gif"] {
+    background: url(https://dere.shikimori.me/system/images/original/134539.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:Ban:.gif"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/134540.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shocked:.gif"] {
+    background: url(https://dere.shikimori.me/system/images/original/134544.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:sick:.gif"] {
+    background: url(https://moe.shikimori.me/system/images/original/134537.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry5:.gif"] {
+    background: url(https://kawai.shikimori.me/system/images/original/134536.png) no-repeat;
+    width: 33px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:s4:.gif"] {
+    background: url(https://kawai.shikimori.me/system/images/original/134541.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shocked2:.gif"] {
+    background: url(https://desu.shikimori.me/system/images/original/134543.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:dont want:.gif"] {
+    background: url(https://moe.shikimori.me/system/images/original/134542.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
