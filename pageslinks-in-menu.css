@@ -217,6 +217,27 @@
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
 }
+/* Jingliu */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4178"] {
+    background: url(https://dere.shikimori.me/system/images/original/134709.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Topaz */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4181"] {
+    background: url(https://kawai.shikimori.me/system/images/original/134716.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Huohuo */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4182"] {
+    background: url(https://desu.shikimori.me/system/images/original/134718.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
 /* 4 (★) */
 /* Arlan */
 .b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3871"] {
@@ -312,6 +333,27 @@
 /* Yukong */
 .b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4169"] {
     background: url(https://dere.shikimori.me/system/images/original/134639.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Xueyi */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4177"] {
+    background: url(https://moe.shikimori.me/system/images/original/134707.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Guinaifen */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4179"] {
+    background: url(https://kawai.shikimori.me/system/images/original/134711.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Lynx */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4180"] {
+    background: url(https://dere.shikimori.me/system/images/original/134714.png);
     background-size: cover;
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
