@@ -60,7 +60,7 @@ img[src$="/images/smileys/:Happy Birthday:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:angry:.gif"] {
-    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/eb0bf4500c43d2225adcb2ab303f06ff_435327528392385368.png) no-repeat; 
+    background: url(https://cdn.7tv.app/emote/64570beb89e08d1e8df27c8f/4x.webp) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -408,7 +408,8 @@ img[src$="/images/smileys/:8):.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:water:.gif"] {
-    background: url(https://nyaa.shikimori.me/system/images/original/134545.webp) no-repeat;
+    background: url(https://cdn.7tv.app/emote/646938a4a8c78dc467372ebd/4x.webp) no-repeat;
+    width: 64px;
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -439,7 +440,7 @@ img[src$="/images/smileys/:s4:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:shocked2:.gif"] {
-    background: url(https://desu.shikimori.me/system/images/original/134543.png) no-repeat;
+    background: url(https://cdn.7tv.app/emote/646fba3de91f85c3f53009db/4x.webp) no-repeat;
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -525,6 +526,27 @@ img[src$="/images/smileys/:happy:.gif"] {
 img[src$="/images/smileys/:hypno:.gif"] {
     background: url(https://cdn.7tv.app/emote/645d2edd7f4086ee103a27fa/4x.webp) no-repeat;
     width: 69px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:dance:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645d621e7fa1a5e0ee980e8e/4x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shocked4:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645f0881d65ebaeb2379be87/4x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:).gif"] {
+    background: url(https://cdn.7tv.app/emote/645f70d248e90f69f0788dcd/4x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:gaze:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645f70d248e90f69f0788dcd/4x.webp) no-repeat;
+    width: 82px;
     padding-bottom: 32px;
     background-size: cover;
 }
