@@ -550,3 +550,14 @@ img[src$="/images/smileys/:gaze:.gif"] {
     padding-bottom: 32px;
     background-size: cover;
 }
+img[src$="/images/smileys/:kia:.gif"] {
+    background: url(https://cdn.7tv.app/emote/646937eb58d599a0419faa6e/4x.webp) no-repeat;
+    width: 53px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bullied:.gif"] {
+    background: url(https://cdn.7tv.app/emote/647431161e0850ff1f6c20d3/4x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
