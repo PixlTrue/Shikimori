@@ -415,7 +415,8 @@ img[src$="/images/smileys/:water:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:Ban:.gif"] {
-    background: url(https://nyaa.shikimori.me/system/images/original/134540.png) no-repeat;
+    background: url(https://cdn.7tv.app/emote/648157a46285406852166b16/2x.webp) no-repeat;
+    width: 36px;
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -456,8 +457,8 @@ img[src$="/images/smileys/:Im dead:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:caterpillar:.gif"] {
-    background: url(https://cdn.7tv.app/emote/64563a65222c134009e80cdb/2x.webp) no-repeat;
-    width: 92px;
+    background: url(https://cdn.7tv.app/emote/6483705d76b53e625d59118b/2x.webp) no-repeat;
+    width: 60px;
     padding-bottom: 32px;
     background-size: cover;
 }
