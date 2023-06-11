@@ -132,7 +132,8 @@ img[src$="/images/smileys/:strange:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:s2:.gif"] {
-    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/8b18118bfd54cb4eeee2dafcb90a52c5_4720519614376335712.png) no-repeat; 
+    background: url(https://cdn.7tv.app/emote/6471d5d6bbda77d37564d62b/2x.webp) no-repeat;
+    width: 53px;
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -342,7 +343,7 @@ img[src$="/images/smileys/:dont listen:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:-P.gif"] {
-    background: url(https://cdn.discordapp.com/emojis/1071963820601384960.webp) no-repeat;
+    background: url(https://cdn.7tv.app/emote/645da023687d6f0c5545789d/2x.webp) no-repeat;
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -352,8 +353,7 @@ img[src$="/images/smileys/:cool2:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:hurray:.gif"] {
-    background: url(https://dere.shikimori.me/system/images/original/134359.webp) no-repeat;
-    width: 38px;
+    background: url(https://cdn.7tv.app/emote/64629c99e08ca3c3a492d747/2x.webp) no-repeat;
     padding-bottom: 32px;
     background-size: cover;
 }
