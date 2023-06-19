@@ -58,7 +58,7 @@
   /* Описание клуба */
   .b-club .info .number, .b-club .info .value, .b-club .info .grouped:after {
     font-size: 9px;
-    color: #e3bd7e;
+    color: #9d9d9d;
   }
   .b-club .info {
     font-size: 10px;
