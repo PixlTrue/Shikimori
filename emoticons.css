@@ -3,11 +3,11 @@ img.smiley[title=":strange4:"], img.smiley[title=":ball:"], img.smiley[title=":e
     content: unset;
 }
 .b-shiki_editor img.smiley {
-    max-height: 32px;
-    height: 32px;
+    max-height: var(--smileys-size-editor);
+    height: var(--smileys-size-editor);
 }
 img.smiley {
-    height: 32px;
+    height: var(--smileys-size);
 }
 img[title=":depressed2:"] {
     content: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/42691d4f0f35b6bcfa3ae4009c0dae09_834757971416485741.png); 
