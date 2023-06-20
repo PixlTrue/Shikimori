@@ -37,11 +37,15 @@
     background-size: cover;
     border-radius: 4px 4px 0 0;
     opacity: .6;
-    margin: -12px; /* вот тут поправить и найти*/
+    margin: -12px;
   }
 .b-club:hover::before {
   opacity: 1;
   transition: .6s ease-in-out;
+}
+.b-club .name-logo:hover::before {
+    background-color: #5a5a5ab3;
+    transition: .6s ease-in-out;
 }
 .b-club .name-logo::after {
     content: "";
@@ -86,8 +90,7 @@
     text-align: center;
     transform: translateY(-50%);
 }
-  /* Конец 18+ в клубах */
-  /* Картинки клубов */
+/* Картинки клубов */
 /* Azur Lane */
 .b-club[id='2538']::before {
     background-image: url(https://i.imgur.com/VaLjW1h.jpeg);
