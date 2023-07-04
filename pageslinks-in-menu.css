@@ -161,6 +161,13 @@
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
 }
+/* Imbibitor Lunae */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4259"] {
+    background: url(https://shikimori.me/system/images/original/136448.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
 /* Jing Yuan */
 .b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3893"] {
     background: url(https://dere.shikimori.me/system/images/original/132294.png);
