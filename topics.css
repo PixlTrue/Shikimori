@@ -1,0 +1,167 @@
+/* Топики */
+.p-clubs-show .l-content .b-topic-preview>.inner {
+    min-height: 56px;
+    padding: 10px;
+    border: 1px solid;
+    background: #2b2b2b;
+    border-radius: 5px;
+}
+.p-clubs-show .l-content .b-topic-preview>.inner:hover {
+  background-color: #ffffff47;
+  border-color: #272626;
+  transition: background-color .75s ease,border-color .75s ease;
+}
+.p-clubs-show .l-content .block:nth-child(4) {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
+}
+.p-clubs-show .l-content .block:nth-child(4) .b-topic {
+    width: calc((100% - 10px) / 2);
+}
+.p-clubs-show .l-content .b-topic-preview>.inner .body-inner,
+.p-clubs-show .l-content .b-topic-preview>.inner .read_more-link {
+    display: none;
+}
+/* Bailu */
+.b-topic>.inner header .poster[href*="topics/513904"] img {
+content: url(https://desu.shikimori.me/system/images/original/132199.webp);
+}
+/* Blade */
+.b-topic>.inner header .poster[href*="-blade"] img {
+content: url(https://desu.shikimori.me/system/images/original/132200.webp);
+}
+/* Bronya */
+.b-topic>.inner header .poster[href*="topics/513909"] img {
+content: url(https://desu.shikimori.me/system/images/original/132201.webp);
+}
+/* Clara */
+.b-topic>.inner header .poster[href*="-clara"] img {
+content: url(https://desu.shikimori.me/system/images/original/132202.webp);
+}
+/* Fu Xuan */
+.b-topic>.inner header .poster[href*="-fu-xuan"] img {
+content: url(https://desu.shikimori.me/system/images/original/132203.webp);
+}
+/* Gepard */
+.b-topic>.inner header .poster[href*="-gepard"] img {
+content: url(https://desu.shikimori.me/system/images/original/132204.webp);
+}
+/* Himeko */
+.b-topic>.inner header .poster[href*="topics/513903"] img {
+content: url(https://desu.shikimori.me/system/images/original/132205.webp);
+}
+/* Huohuo */
+.b-topic>.inner header .poster[href*="topics/513935"] img {
+content: url();
+}
+/* Imbibitor Lunae */
+.b-topic>.inner header .poster[href*="-imbibitor-lunae"] img {
+content: url(https://desu.shikimori.me/system/images/original/136733.webp);
+}
+/* Kafka */
+.b-topic>.inner header .poster[href*="topics/508305"] img {
+content: url(https://desu.shikimori.me/system/images/original/132207.webp);
+}
+/* Seele */
+.b-topic>.inner header .poster[href*="topics/508675"] img {
+content: url(https://desu.shikimori.me/system/images/original/132209.webp);
+}
+/* Trailblazer */
+.b-topic>.inner header .poster[href*="topics/508232"] img {
+content: url(https://desu.shikimori.me/system/images/original/132211.webp);
+}
+/* Welt */
+.b-topic>.inner header .poster[href*="topics/513908"] img {
+content: url(https://desu.shikimori.me/system/images/original/132212.webp);
+}
+/* Yanqing */
+.b-topic>.inner header .poster[href*="topics/513905"] img {
+content: url(https://desu.shikimori.me/system/images/original/132214.webp);
+}
+/* Jingliu */
+.b-topic>.inner header .poster[href*="topics/513936"] img {
+content: url();
+}
+/* Jing Yuan */
+.b-topic>.inner header .poster[href*="-jing-yuan"] img {
+content: url(https://desu.shikimori.me/system/images/original/132206.webp);
+}
+/* Silver Wolf */
+.b-topic>.inner header .poster[href*="-silver-wolf"] img {
+content: url(https://desu.shikimori.me/system/images/original/132210.webp);
+}
+/* Luocha */
+.b-topic>.inner header .poster[href*="-luocha"] img {
+content: url(https://desu.shikimori.me/system/images/original/132208.webp);
+}
+/* 4-star */
+/* Arlan */
+.b-topic>.inner header .poster[href*="-arlan"] img {
+content: url(https://desu.shikimori.me/system/images/original/132186.webp);
+}
+/* Asta */
+.b-topic>.inner header .poster[href*="-asta"] img {
+content: url(https://desu.shikimori.me/system/images/original/132188.webp);
+}
+/* Dan Heng */
+.b-topic>.inner header .poster[href*="topics/513910"] img {
+content: url(https://desu.shikimori.me/system/images/original/132189.webp);
+}
+/* Herta */
+.b-topic>.inner header .poster[href*="topics/510285"] img {
+content: url(https://desu.shikimori.me/system/images/original/132190.webp);
+}
+/* Hook */
+.b-topic>.inner header .poster[href*="topics/513911"] img {
+content: url(https://desu.shikimori.me/system/images/original/132191.webp);
+}
+/* Luka */
+.b-topic>.inner header .poster[href*="-luka"] img {
+content: url(https://desu.shikimori.me/system/images/original/136732.webp);
+}
+/* Lynx */
+.b-topic>.inner header .poster[href*="topics/513932"] img {
+content: url(https://desu.shikimori.me/system/images/original/136734.webp);
+}
+/* March 7th */
+.b-topic>.inner header .poster[href*="topics/507630"] img {
+content: url(https://desu.shikimori.me/system/images/original/132192.webp);
+}
+/* Natasha */
+.b-topic>.inner header .poster[href*="topics/513914"] img {
+content: url(https://desu.shikimori.me/system/images/original/132193.webp);
+}
+/* Pela */
+.b-topic>.inner header .poster[href*="topics/513913"] img {
+content: url(https://desu.shikimori.me/system/images/original/132194.webp);
+}
+/* Qingque */
+.b-topic>.inner header .poster[href*="topics/513912"] img {
+content: url(https://desu.shikimori.me/system/images/original/132195.webp);
+}
+/* Sampo */
+.b-topic>.inner header .poster[href*="topics/"] img {
+content: url(https://desu.shikimori.me/system/images/original/132196.webp);
+}
+/* Serval */
+.b-topic>.inner header .poster[href*="topics/"] img {
+content: url(https://desu.shikimori.me/system/images/original/132197.webp);
+}
+/* Sushang */
+.b-topic>.inner header .poster[href*="topics/"] img {
+content: url(https://desu.shikimori.me/system/images/original/132198.webp);
+}
+/* Tingyun */
+.b-topic>.inner header .poster[href*="topics/513917"] img {
+content: url(https://desu.shikimori.me/system/images/original/132213.webp);
+}
+/* Yukong */
+.b-topic>.inner header .poster[href*="topics/513916"] img {
+content: url(https://desu.shikimori.me/system/images/original/136731.webp);
+}
+/* Xueyi */
+.b-topic>.inner header .poster[href*="topics/513933"] img {
+content: url(https://desu.shikimori.me/system/images/original/136734.webp);
+}
