@@ -60,7 +60,7 @@ content: url(https://desu.shikimori.me/system/images/original/132205.webp);
 }
 /* Huohuo */
 .b-topic>.inner header .poster[href*="topics/513935"] img {
-content: url();
+content: url(https://desu.shikimori.me/system/images/original/136738.png);
 }
 /* Imbibitor Lunae */
 .b-topic>.inner header .poster[href*="-imbibitor-lunae"] img {
@@ -88,7 +88,7 @@ content: url(https://desu.shikimori.me/system/images/original/132214.webp);
 }
 /* Jingliu */
 .b-topic>.inner header .poster[href*="topics/513936"] img {
-content: url();
+content: url(https://desu.shikimori.me/system/images/original/136735.png);
 }
 /* Jing Yuan */
 .b-topic>.inner header .poster[href*="-jing-yuan"] img {
@@ -169,5 +169,26 @@ content: url(https://desu.shikimori.me/system/images/original/136731.webp);
 }
 /* Xueyi */
 .b-topic>.inner header .poster[href*="topics/513933"] img {
-content: url();
+content: url(https://desu.shikimori.me/system/images/original/136736.png);
+}
+/* NPC */
+/* Pom-Pom */
+.b-topic>.inner header .poster[href*="topics/508310"] img {
+content: url(https://desu.shikimori.me/system/images/original/136737.png);
+}
+/* Nanook */
+.b-topic>.inner header .poster[href*="topics/513922"] img {
+content: url(https://desu.shikimori.me/system/images/original/132225.jpg);
+}
+/* Oleg */
+.b-topic>.inner header .poster[href*="topics/513925"] img {
+content: url(https://desu.shikimori.me/system/images/original/132224.jpg);
+}
+/* Svarog */
+.b-topic>.inner header .poster[href*="topics/513928"] img {
+content: url(https://desu.shikimori.me/system/images/original/132226.png);
+}
+/* Cocolia */
+.b-topic>.inner header .poster[href*="topics/513923"] img {
+content: url(https://desu.shikimori.me/system/images/original/132218.jpg);
 }
