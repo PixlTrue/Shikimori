@@ -5,7 +5,7 @@
 .b-topic-preview {
     margin-bottom: 0px;
 }
-.b-topic>.inner header .name-date .name:before {
+.b-topic-preview>.inner header .name-date .name:before {
     content: '';
     width: calc(100% + 40px);
     height: 100%;
