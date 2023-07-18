@@ -1,4 +1,10 @@
 /* Топики */
+.p-clubs-show .l-content .b-topic {
+    border-top: none;
+}
+.b-topic-preview {
+    margin-bottom: 0px;
+}
 .p-clubs-show .l-content .b-topic-preview>.inner {
     min-height: 56px;
     padding: 10px;
@@ -142,15 +148,15 @@ content: url(https://desu.shikimori.me/system/images/original/132194.webp);
 content: url(https://desu.shikimori.me/system/images/original/132195.webp);
 }
 /* Sampo */
-.b-topic>.inner header .poster[href*="topics/"] img {
+.b-topic>.inner header .poster[href*="-sampo"] img {
 content: url(https://desu.shikimori.me/system/images/original/132196.webp);
 }
 /* Serval */
-.b-topic>.inner header .poster[href*="topics/"] img {
+.b-topic>.inner header .poster[href*="-serval"] img {
 content: url(https://desu.shikimori.me/system/images/original/132197.webp);
 }
 /* Sushang */
-.b-topic>.inner header .poster[href*="topics/"] img {
+.b-topic>.inner header .poster[href*="-sushang"] img {
 content: url(https://desu.shikimori.me/system/images/original/132198.webp);
 }
 /* Tingyun */
@@ -163,5 +169,5 @@ content: url(https://desu.shikimori.me/system/images/original/136731.webp);
 }
 /* Xueyi */
 .b-topic>.inner header .poster[href*="topics/513933"] img {
-content: url(https://desu.shikimori.me/system/images/original/136734.webp);
+content: url();
 }
