@@ -62,162 +62,322 @@
 /* Bailu */
 .b-topic>.inner header .poster[href*="topics/513904"] img {
 content: url(https://desu.shikimori.me/system/images/original/132199.webp);
-}
+} 
+ .b-topic[data-track_topic="513904"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513904"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Blade */
 .b-topic>.inner header .poster[href*="-blade"] img {
 content: url(https://desu.shikimori.me/system/images/original/132200.webp);
-}
+} 
+ .b-topic[data-url*="-blade"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-blade"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Bronya */
 .b-topic>.inner header .poster[href*="topics/513909"] img {
 content: url(https://desu.shikimori.me/system/images/original/132201.webp);
-}
+} 
+ .b-topic[data-track_topic="513909"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513909"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Clara */
 .b-topic>.inner header .poster[href*="-clara"] img {
 content: url(https://desu.shikimori.me/system/images/original/132202.webp);
-}
+} 
+ .b-topic[data-url*="-clara"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-clara"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Fu Xuan */
 .b-topic>.inner header .poster[href*="-fu-xuan"] img {
 content: url(https://desu.shikimori.me/system/images/original/132203.webp);
-}
+} 
+ .b-topic[data-url*="-fu-xuan"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-fu-xuan"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Gepard */
 .b-topic>.inner header .poster[href*="-gepard"] img {
 content: url(https://desu.shikimori.me/system/images/original/132204.webp);
-}
+} 
+ .b-topic[data-url*="-gepard"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-gepard"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Himeko */
 .b-topic>.inner header .poster[href*="topics/513903"] img {
 content: url(https://desu.shikimori.me/system/images/original/132205.webp);
-}
+} 
+ .b-topic[data-track_topic="513903"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513903"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Huohuo */
 .b-topic>.inner header .poster[href*="topics/513935"] img {
 content: url(https://desu.shikimori.me/system/images/original/136738.png);
-}
+} 
+ .b-topic[data-track_topic="513935"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513935"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Imbibitor Lunae */
 .b-topic>.inner header .poster[href*="-imbibitor-lunae"] img {
 content: url(https://desu.shikimori.me/system/images/original/136733.webp);
-}
+} 
+ .b-topic[data-url*="-imbibitor-lunae"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-imbibitor-lunae"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Kafka */
 .b-topic>.inner header .poster[href*="topics/508305"] img {
 content: url(https://desu.shikimori.me/system/images/original/132207.webp);
-}
+} 
+ .b-topic[data-track_topic="508305"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="508305"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Seele */
 .b-topic>.inner header .poster[href*="topics/508675"] img {
 content: url(https://desu.shikimori.me/system/images/original/132209.webp);
-}
+} 
+ .b-topic[data-track_topic="508675"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="508675"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Trailblazer */
 .b-topic>.inner header .poster[href*="topics/508232"] img {
 content: url(https://desu.shikimori.me/system/images/original/132211.webp);
-}
+} 
+ .b-topic[data-track_topic="508232"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="508232"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Welt */
 .b-topic>.inner header .poster[href*="topics/513908"] img {
 content: url(https://desu.shikimori.me/system/images/original/132212.webp);
-}
+} 
+ .b-topic[data-track_topic="513908"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513908"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Yanqing */
 .b-topic>.inner header .poster[href*="topics/513905"] img {
 content: url(https://desu.shikimori.me/system/images/original/132214.webp);
-}
+} 
+ .b-topic[data-track_topic="513905"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513905"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Jingliu */
 .b-topic>.inner header .poster[href*="topics/513936"] img {
 content: url(https://desu.shikimori.me/system/images/original/136735.png);
-}
+} 
+ .b-topic[data-track_topic="513936"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513936"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Jing Yuan */
 .b-topic>.inner header .poster[href*="-jing-yuan"] img {
 content: url(https://desu.shikimori.me/system/images/original/132206.webp);
-}
+} 
+ .b-topic[data-url*="-jing-yuan"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-jing-yuan"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Silver Wolf */
 .b-topic>.inner header .poster[href*="-silver-wolf"] img {
 content: url(https://desu.shikimori.me/system/images/original/132210.webp);
-}
+} 
+ .b-topic[data-url*="-silver-wolf"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-silver-wolf"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Luocha */
 .b-topic>.inner header .poster[href*="-luocha"] img {
 content: url(https://desu.shikimori.me/system/images/original/132208.webp);
-}
+} 
+ .b-topic[data-url*="-luocha"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-luocha"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* 4-star */
 /* Arlan */
 .b-topic>.inner header .poster[href*="-arlan"] img {
 content: url(https://desu.shikimori.me/system/images/original/132186.webp);
-}
+} 
+ .b-topic[data-url*="-arlan"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-arlan"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Asta */
 .b-topic>.inner header .poster[href*="-asta"] img {
 content: url(https://desu.shikimori.me/system/images/original/132188.webp);
-}
+} 
+ .b-topic[data-url*="-asta"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-asta"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Dan Heng */
 .b-topic>.inner header .poster[href*="topics/513910"] img {
 content: url(https://desu.shikimori.me/system/images/original/132189.webp);
-}
+} 
+ .b-topic[data-track_topic="513910"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513910"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Herta */
 .b-topic>.inner header .poster[href*="topics/510285"] img {
 content: url(https://desu.shikimori.me/system/images/original/132190.webp);
-}
+} 
+ .b-topic[data-track_topic="510285"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="510285"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Hook */
 .b-topic>.inner header .poster[href*="topics/513911"] img {
 content: url(https://desu.shikimori.me/system/images/original/132191.webp);
-}
+} 
+ .b-topic[data-track_topic="513911"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513911"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Luka */
 .b-topic>.inner header .poster[href*="-luka"] img {
 content: url(https://desu.shikimori.me/system/images/original/136732.webp);
-}
+} 
+ .b-topic[data-url*="-luka"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-luka"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Lynx */
 .b-topic>.inner header .poster[href*="topics/513932"] img {
 content: url(https://desu.shikimori.me/system/images/original/136734.webp);
-}
+} 
+ .b-topic[data-track_topic="513932"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513932"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* March 7th */
 .b-topic>.inner header .poster[href*="topics/507630"] img {
 content: url(https://desu.shikimori.me/system/images/original/132192.webp);
-}
+} 
+ .b-topic[data-track_topic="507630"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="507630"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Natasha */
 .b-topic>.inner header .poster[href*="topics/513914"] img {
 content: url(https://desu.shikimori.me/system/images/original/132193.webp);
-}
+} 
+ .b-topic[data-track_topic="513914"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513914"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Pela */
 .b-topic>.inner header .poster[href*="topics/513913"] img {
 content: url(https://desu.shikimori.me/system/images/original/132194.webp);
-}
+} 
+ .b-topic[data-track_topic="513913"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513913"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Qingque */
 .b-topic>.inner header .poster[href*="topics/513912"] img {
 content: url(https://desu.shikimori.me/system/images/original/132195.webp);
-}
+} 
+ .b-topic[data-track_topic="513912"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513912"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Sampo */
 .b-topic>.inner header .poster[href*="-sampo"] img {
 content: url(https://desu.shikimori.me/system/images/original/132196.webp);
-}
+} 
+ .b-topic[data-url*="-sampo"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-sampo"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Serval */
 .b-topic>.inner header .poster[href*="-serval"] img {
 content: url(https://desu.shikimori.me/system/images/original/132197.webp);
-}
+} 
+ .b-topic[data-url*="-serval"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-serval"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Sushang */
 .b-topic>.inner header .poster[href*="-sushang"] img {
 content: url(https://desu.shikimori.me/system/images/original/132198.webp);
-}
+} 
+ .b-topic[data-url*="-sushang"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-sushang"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Tingyun */
 .b-topic>.inner header .poster[href*="topics/513917"] img {
 content: url(https://desu.shikimori.me/system/images/original/132213.webp);
-}
+} 
+ .b-topic[data-track_topic="513917"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513917"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Yukong */
 .b-topic>.inner header .poster[href*="topics/513916"] img {
 content: url(https://desu.shikimori.me/system/images/original/136731.webp);
-}
+} 
+ .b-topic[data-track_topic="513916"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513916"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* Xueyi */
 .b-topic>.inner header .poster[href*="topics/513933"] img {
 content: url(https://desu.shikimori.me/system/images/original/136736.png);
-}
+} 
+ .b-topic[data-track_topic="513933"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513933"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; }
 /* NPC */
 /* Pom-Pom */
 .b-topic>.inner header .poster[href*="topics/508310"] img {
 content: url(https://desu.shikimori.me/system/images/original/136737.png);
-}
+} 
+ .b-topic[data-track_topic="508310"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="508310"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "NPC"; position: absolute; visibility: visible; }
 /* Nanook */
 .b-topic>.inner header .poster[href*="topics/513922"] img {
 content: url(https://desu.shikimori.me/system/images/original/132225.jpg);
-}
+} 
+ .b-topic[data-track_topic="513922"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513922"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "NPC"; position: absolute; visibility: visible; }
 /* Oleg */
 .b-topic>.inner header .poster[href*="topics/513925"] img {
 content: url(https://desu.shikimori.me/system/images/original/132224.jpg);
-}
+} 
+ .b-topic[data-track_topic="513925"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513925"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "NPC"; position: absolute; visibility: visible; }
 /* Svarog */
 .b-topic>.inner header .poster[href*="topics/513928"] img {
 content: url(https://desu.shikimori.me/system/images/original/132226.png);
-}
+} 
+ .b-topic[data-track_topic="513928"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513928"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "NPC"; position: absolute; visibility: visible; }
 /* Cocolia */
 .b-topic>.inner header .poster[href*="topics/513923"] img {
 content: url(https://desu.shikimori.me/system/images/original/132218.jpg);
-}
+} 
+ .b-topic[data-track_topic="513923"].b-topic-minified>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="513923"].b-topic-minified>.inner .b-status-line .section.created_at:before 
+ { content: "NPC"; position: absolute; visibility: visible; }
