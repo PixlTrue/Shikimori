@@ -3,6 +3,9 @@
     border-top: none;
 }
 .b-topic-preview {
+    margin-bottom: 10px;
+}
+.block .b-topic-preview {
     margin-bottom: 0px;
 }
 .p-clubs-show .b-topic-preview>.inner header .name-date .name:before {
