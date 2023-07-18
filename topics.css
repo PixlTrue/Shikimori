@@ -5,6 +5,35 @@
 .b-topic-preview {
     margin-bottom: 0px;
 }
+.b-topic>.inner header .name-date .name:before {
+    content: '';
+    width: calc(100% + 40px);
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: -20px;
+    opacity: 0;
+}
+.b-topic-preview .buttons [class*='item-'] {
+    position: relative;
+    z-index: 10;
+}
+.b-topic-preview .buttons [class*='item-quote'] {
+    display: none;
+}
+.b-topic-preview .buttons [class*='item-'] {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 2px;
+    background: #727272;
+}
+.b-topic-preview .buttons [class*='item-']:hover {
+    border-color: #ddd;
+    background: #484848;
+    transition: background-color .75s ease,border-color .75s ease;
+}
 .p-clubs-show .l-content .b-topic-preview>.inner {
     min-height: 56px;
     padding: 10px;
