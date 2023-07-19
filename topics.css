@@ -75,7 +75,7 @@ line-height: 2;
 .b-topic .b-status-line .section.main:after,
 .b-topic>.inner.block .b-status-line,
 .b-topic>.inner.block .name-date,
-.b-topic>.inner header {
+.b-topic>.inner.block header {
   display: none;
 }
 /* Bailu */
