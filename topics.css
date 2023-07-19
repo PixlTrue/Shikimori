@@ -1515,6 +1515,7 @@ content: url(https://desu.shikimori.me/system/images/original/136736.png);
 /* Pom-Pom */
 .b-topic>.inner header .poster[href*="topics/508310"] img {
  content: url(https://desu.shikimori.me/system/images/original/136737.png);
+}
  .b-topic[data-track_topic="508310"]>.inner .b-status-line .section.created_at 
  { visibility: hidden; color: #fdd383; } 
  .b-topic[data-track_topic="508310"]>.inner .b-status-line .section.created_at:before 
