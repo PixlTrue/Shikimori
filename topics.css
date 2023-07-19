@@ -62,7 +62,11 @@
     display: none;
 }
 .b-topic-preview .b-status-line .section.main .comments {
+    align-self: baseline;
+    position: absolute;
+    font-size: 15px;
     inset: 20px auto auto 140px;
+    padding: 3px 11px;
 }
 .p-clubs-show .b-topic-preview .b-status-line .section.main>span {
     align-self: baseline;
@@ -1510,15 +1514,23 @@ content: url(https://desu.shikimori.me/system/images/original/136736.png);
 /* NPC */
 /* Pom-Pom */
 .b-topic>.inner header .poster[href*="topics/508310"] img {
-content: url(https://desu.shikimori.me/system/images/original/136737.png);
-} 
+ content: url(https://desu.shikimori.me/system/images/original/136737.png);
  .b-topic[data-track_topic="508310"]>.inner .b-status-line .section.created_at 
  { visibility: hidden; color: #fdd383; } 
  .b-topic[data-track_topic="508310"]>.inner .b-status-line .section.created_at:before 
- { content: "NPC"; position: absolute; visibility: visible; } 
-.b-topic[data-track_topic="508310"]>.inner .b-status-line .section.main {
-display: none;    
-}
+ { content: "NPC"; position: absolute; visibility: visible; }
+ .b-topic[data-track_topic="508310"]>.inner  .b-status-line .section:not(:last-child):before { 
+ display: none;
+ } 
+ .b-topic[data-track_topic="508310"]>.inner  .b-status-line .section.main:before { 
+display: none;
+ } 
+ .b-topic[data-track_topic="508310"]>.inner .b-status-line .section:not(:last-child):after { 
+ display: none;
+ } 
+ .b-topic[data-track_topic="508310"]>.inner .b-status-line .section.main:after { 
+display: none; 
+ }
 /* Nanook */
 .b-topic>.inner header .poster[href*="topics/513922"] img {
 content: url(https://desu.shikimori.me/system/images/original/132225.jpg);
@@ -1527,9 +1539,18 @@ content: url(https://desu.shikimori.me/system/images/original/132225.jpg);
  { visibility: hidden; color: #fdd383; } 
  .b-topic[data-track_topic="513922"]>.inner .b-status-line .section.created_at:before 
  { content: "NPC"; position: absolute; visibility: visible; } 
-.b-topic[data-track_topic="508310"]>.inner .b-status-line .section.main {
-display: none;    
-}
+ .b-topic[data-track_topic="513922"]>.inner  .b-status-line .section:not(:last-child):before { 
+display: none;
+ } 
+ .b-topic[data-track_topic="513922"]>.inner  .b-status-line .section.main:before { 
+ display: none;
+ } 
+ .b-topic[data-track_topic="513922"]>.inner .b-status-line .section:not(:last-child):after { 
+ display: none;
+ } 
+ .b-topic[data-track_topic="513922"]>.inner .b-status-line .section.main:after { 
+ display: none; 
+ }
 /* Oleg */
 .b-topic>.inner header .poster[href*="topics/513925"] img {
 content: url(https://desu.shikimori.me/system/images/original/132224.jpg);
@@ -1537,10 +1558,19 @@ content: url(https://desu.shikimori.me/system/images/original/132224.jpg);
  .b-topic[data-track_topic="513925"]>.inner .b-status-line .section.created_at 
  { visibility: hidden; color: #fdd383; } 
  .b-topic[data-track_topic="513925"]>.inner .b-status-line .section.created_at:before 
- { content: "NPC"; position: absolute; visibility: visible; } 
-.b-topic[data-track_topic="508310"]>.inner .b-status-line .section.main {
-display: none;    
-}
+ { content: "NPC"; position: absolute; visibility: visible; }
+ .b-topic[data-track_topic="513925"]>.inner  .b-status-line .section:not(:last-child):before { 
+ display: none;
+ } 
+ .b-topic[data-track_topic="513925"]>.inner  .b-status-line .section.main:before { 
+ display: none; 
+ } 
+ .b-topic[data-track_topic="513925"]>.inner .b-status-line .section:not(:last-child):after { 
+ display: none; 
+ } 
+ .b-topic[data-track_topic="513925"]>.inner .b-status-line .section.main:after { 
+ display: none; 
+ }
 /* Svarog */
 .b-topic>.inner header .poster[href*="topics/513928"] img {
 content: url(https://desu.shikimori.me/system/images/original/132226.png);
@@ -1548,10 +1578,19 @@ content: url(https://desu.shikimori.me/system/images/original/132226.png);
  .b-topic[data-track_topic="513928"]>.inner .b-status-line .section.created_at 
  { visibility: hidden; color: #fdd383; } 
  .b-topic[data-track_topic="513928"]>.inner .b-status-line .section.created_at:before 
- { content: "NPC"; position: absolute; visibility: visible; } 
-.b-topic[data-track_topic="508310"]>.inner .b-status-line .section.main {
-display: none;    
-}
+ { content: "NPC"; position: absolute; visibility: visible; }
+ .b-topic[data-track_topic="513928"]>.inner  .b-status-line .section:not(:last-child):before { 
+ display: none;
+ } 
+ .b-topic[data-track_topic="513928"]>.inner  .b-status-line .section.main:before { 
+ display: none;
+ } 
+ .b-topic[data-track_topic="513928"]>.inner .b-status-line .section:not(:last-child):after { 
+ display: none; 
+ } 
+ .b-topic[data-track_topic="513928"]>.inner .b-status-line .section.main:after { 
+ display: none;
+ }
 /* Cocolia */
 .b-topic>.inner header .poster[href*="topics/513923"] img {
 content: url(https://desu.shikimori.me/system/images/original/132218.jpg);
@@ -1559,7 +1598,16 @@ content: url(https://desu.shikimori.me/system/images/original/132218.jpg);
  .b-topic[data-track_topic="513923"]>.inner .b-status-line .section.created_at 
  { visibility: hidden; color: #fdd383; } 
  .b-topic[data-track_topic="513923"]>.inner .b-status-line .section.created_at:before 
- { content: "NPC"; position: absolute; visibility: visible; } 
- .b-topic[data-track_topic="508310"]>.inner .b-status-line .section.main {
-display: none;    
-}
+ { content: "NPC"; position: absolute; visibility: visible; }
+ .b-topic[data-track_topic="513923"]>.inner  .b-status-line .section:not(:last-child):before { 
+ display: none;
+ } 
+ .b-topic[data-track_topic="513923"]>.inner  .b-status-line .section.main:before { 
+ display: none; 
+ } 
+ .b-topic[data-track_topic="513923"]>.inner .b-status-line .section:not(:last-child):after { 
+ display: none;
+ } 
+ .b-topic[data-track_topic="513923"]>.inner .b-status-line .section.main:after { 
+ display: none;
+ }
