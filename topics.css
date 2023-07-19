@@ -73,7 +73,7 @@ font-size: 14px;
 line-height: 2;
 }
 .b-topic .b-status-line .section.main:after,
-.b-topic>.inner .b-status-line .section.main>span {
+.b-topic>.inner.block .b-status-line {
   display: none;
 }
 /* Bailu */
