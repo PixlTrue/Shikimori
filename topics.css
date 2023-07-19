@@ -72,6 +72,9 @@
 font-size: 14px;
 line-height: 2;
 }
+.b-topic .b-status-line .section.main:after {
+  display: none;
+}
 /* Bailu */
 .b-topic>.inner header .poster[href*="topics/513904"] img {
 content: url(https://desu.shikimori.me/system/images/original/132199.webp);
