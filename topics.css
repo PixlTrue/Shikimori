@@ -1588,6 +1588,7 @@ display: none;
 /* Карточки профиля */
 .b-topic>.inner header .poster[href*="topics/510368"] img {
 content: url(https://desu.shikimori.me/system/images/original/136790.png);
+}
 .b-topic[data-track_topic="510368"]>.inner .b-status-line .section.created_at 
 { visibility: hidden; color: #ddd; } 
 .b-topic[data-track_topic="510368"]>.inner .b-status-line .section.created_at:before 
@@ -1598,7 +1599,6 @@ content: url(https://desu.shikimori.me/system/images/original/136790.png);
 .b-topic[data-track_topic="510368"]>.inner .b-status-line .section.main:after { 
 display: none;
 }
-} 
 /* Ачивки */
 .b-topic>.inner header .poster[href*="topics/507601"] img {
     content: url(https://desu.shikimori.me/system/images/original/136789.webp);
