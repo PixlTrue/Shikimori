@@ -1619,7 +1619,7 @@ display: none;
 }
 .b-topic[data-track_topic="507606"]>.inner .b-status-line .section.created_at 
 { visibility: hidden; color: #ddd; } 
-.b-topic[data-track_topic="507601"]>.inner .b-status-line .section.created_at:before 
+.b-topic[data-track_topic="507606"]>.inner .b-status-line .section.created_at:before 
 { content: "Альбом путишествий"; position: absolute; visibility: visible; } 
 .b-topic[data-track_topic="507606"]>.inner  .b-status-line .section:not(:last-child):before,
 .b-topic[data-track_topic="507606"]>.inner  .b-status-line .section.main:before,
