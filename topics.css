@@ -1521,10 +1521,10 @@ content: url(https://desu.shikimori.me/system/images/original/136736.png);
 { visibility: hidden; color: #ddd; } 
 .b-topic[data-track_topic="508310"]>.inner .b-status-line .section.created_at:before 
 { content: "NPC"; position: absolute; visibility: visible; }
-.b-topic[data-track_topic="513928"]>.inner  .b-status-line .section:not(:last-child):before,
-.b-topic[data-track_topic="513928"]>.inner  .b-status-line .section.main:before,
-.b-topic[data-track_topic="513928"]>.inner .b-status-line .section:not(:last-child):after,
-.b-topic[data-track_topic="513928"]>.inner .b-status-line .section.main:after { 
+.b-topic[data-track_topic="508310"]>.inner  .b-status-line .section:not(:last-child):before,
+.b-topic[data-track_topic="508310"]>.inner  .b-status-line .section.main:before,
+.b-topic[data-track_topic="508310"]>.inner .b-status-line .section:not(:last-child):after,
+.b-topic[data-track_topic="508310"]>.inner .b-status-line .section.main:after { 
 display: none;
 }
 /* Nanook */
@@ -1535,10 +1535,10 @@ content: url(https://desu.shikimori.me/system/images/original/132225.jpg);
 { visibility: hidden; color: #ddd; } 
 .b-topic[data-track_topic="513922"]>.inner .b-status-line .section.created_at:before 
 { content: "NPC"; position: absolute; visibility: visible; } 
-.b-topic[data-track_topic="513928"]>.inner  .b-status-line .section:not(:last-child):before,
-.b-topic[data-track_topic="513928"]>.inner  .b-status-line .section.main:before,
-.b-topic[data-track_topic="513928"]>.inner .b-status-line .section:not(:last-child):after,
-.b-topic[data-track_topic="513928"]>.inner .b-status-line .section.main:after { 
+.b-topic[data-track_topic="513922"]>.inner  .b-status-line .section:not(:last-child):before,
+.b-topic[data-track_topic="513922"]>.inner  .b-status-line .section.main:before,
+.b-topic[data-track_topic="513922"]>.inner .b-status-line .section:not(:last-child):after,
+.b-topic[data-track_topic="513922"]>.inner .b-status-line .section.main:after { 
 display: none;
 }
 /* Oleg */
@@ -1549,10 +1549,10 @@ content: url(https://desu.shikimori.me/system/images/original/132224.jpg);
 { visibility: hidden; color: #ddd; } 
 .b-topic[data-track_topic="513925"]>.inner .b-status-line .section.created_at:before 
 { content: "NPC"; position: absolute; visibility: visible; }
-.b-topic[data-track_topic="513928"]>.inner  .b-status-line .section:not(:last-child):before,
-.b-topic[data-track_topic="513928"]>.inner  .b-status-line .section.main:before,
-.b-topic[data-track_topic="513928"]>.inner .b-status-line .section:not(:last-child):after,
-.b-topic[data-track_topic="513928"]>.inner .b-status-line .section.main:after { 
+.b-topic[data-track_topic="513925"]>.inner  .b-status-line .section:not(:last-child):before,
+.b-topic[data-track_topic="513925"]>.inner  .b-status-line .section.main:before,
+.b-topic[data-track_topic="513925"]>.inner .b-status-line .section:not(:last-child):after,
+.b-topic[data-track_topic="513925"]>.inner .b-status-line .section.main:after { 
 display: none;
 }
 /* Svarog */
@@ -1577,9 +1577,81 @@ content: url(https://desu.shikimori.me/system/images/original/132218.jpg);
 { visibility: hidden; color: #ddd; } 
 .b-topic[data-track_topic="513923"]>.inner .b-status-line .section.created_at:before 
 { content: "NPC"; position: absolute; visibility: visible; }
-.b-topic[data-track_topic="513928"]>.inner  .b-status-line .section:not(:last-child):before,
-.b-topic[data-track_topic="513928"]>.inner  .b-status-line .section.main:before,
-.b-topic[data-track_topic="513928"]>.inner .b-status-line .section:not(:last-child):after,
-.b-topic[data-track_topic="513928"]>.inner .b-status-line .section.main:after { 
+.b-topic[data-track_topic="513923"]>.inner  .b-status-line .section:not(:last-child):before,
+.b-topic[data-track_topic="513923"]>.inner  .b-status-line .section.main:before,
+.b-topic[data-track_topic="513923"]>.inner .b-status-line .section:not(:last-child):after,
+.b-topic[data-track_topic="513923"]>.inner .b-status-line .section.main:after { 
+display: none;
+}
+
+/* Топики */
+/* Карточки профиля */
+.b-topic>.inner header .poster[href*="topics/510368"] img {
+content: url(https://desu.shikimori.me/system/images/original/136790.png);
+.b-topic[data-track_topic="510368"]>.inner .b-status-line .section.created_at 
+{ visibility: hidden; color: #ddd; } 
+.b-topic[data-track_topic="510368"]>.inner .b-status-line .section.created_at:before 
+{ content: "Ник | UID | Персонаж"; position: absolute; visibility: visible; } 
+.b-topic[data-track_topic="510368"]>.inner  .b-status-line .section:not(:last-child):before,
+.b-topic[data-track_topic="510368"]>.inner  .b-status-line .section.main:before,
+.b-topic[data-track_topic="510368"]>.inner .b-status-line .section:not(:last-child):after,
+.b-topic[data-track_topic="510368"]>.inner .b-status-line .section.main:after { 
+display: none;
+}
+} 
+/* Ачивки */
+.b-topic>.inner header .poster[href*="topics/507601"] img {
+    content: url(https://desu.shikimori.me/system/images/original/136789.webp);
+}
+.b-topic[data-track_topic="507601"]>.inner .b-status-line .section.created_at 
+{ visibility: hidden; color: #ddd; } 
+.b-topic[data-track_topic="507601"]>.inner .b-status-line .section.created_at:before 
+{ content: "Гайды | Подсказки"; position: absolute; visibility: visible; } 
+.b-topic[data-track_topic="507601"]>.inner  .b-status-line .section:not(:last-child):before,
+.b-topic[data-track_topic="507601"]>.inner  .b-status-line .section.main:before,
+.b-topic[data-track_topic="507601"]>.inner .b-status-line .section:not(:last-child):after,
+.b-topic[data-track_topic="507601"]>.inner .b-status-line .section.main:after { 
+display: none;
+}
+/* Скрины */
+.b-topic>.inner header .poster[href*="topics/507606"] img {
+    content: url(https://desu.shikimori.me/system/images/original/136791.webp);
+}
+.b-topic[data-track_topic="507606"]>.inner .b-status-line .section.created_at 
+{ visibility: hidden; color: #ddd; } 
+.b-topic[data-track_topic="507601"]>.inner .b-status-line .section.created_at:before 
+{ content: "Альбом путишествий"; position: absolute; visibility: visible; } 
+.b-topic[data-track_topic="507606"]>.inner  .b-status-line .section:not(:last-child):before,
+.b-topic[data-track_topic="507606"]>.inner  .b-status-line .section.main:before,
+.b-topic[data-track_topic="507606"]>.inner .b-status-line .section:not(:last-child):after,
+.b-topic[data-track_topic="507606"]>.inner .b-status-line .section.main:after { 
+display: none;
+}
+/* Арты */
+.b-topic>.inner header .poster[href*="topics/507616"] img {
+    content: url(https://desu.shikimori.me/system/images/original/136792.jpg);
+}
+.b-topic[data-track_topic="507616"]>.inner .b-status-line .section.created_at 
+{ visibility: hidden; color: #ddd; } 
+.b-topic[data-track_topic="507616"]>.inner .b-status-line .section.created_at:before 
+{ content: "Альбом путишествий"; position: absolute; visibility: visible; } 
+.b-topic[data-track_topic="507616"]>.inner  .b-status-line .section:not(:last-child):before,
+.b-topic[data-track_topic="507616"]>.inner  .b-status-line .section.main:before,
+.b-topic[data-track_topic="507616"]>.inner .b-status-line .section:not(:last-child):after,
+.b-topic[data-track_topic="507616"]>.inner .b-status-line .section.main:after { 
+display: none;
+}
+/* Пути */
+.b-topic>.inner header .poster[href*="topics/498992"] img {
+    content: url(https://kawai.shikimori.me/system/images/original/132261.png);
+}
+.b-topic[data-track_topic="498992"]>.inner .b-status-line .section.created_at 
+{ visibility: hidden; color: #ddd; } 
+.b-topic[data-track_topic="498992"]>.inner .b-status-line .section.created_at:before 
+{ content: "Путь"; position: absolute; visibility: visible; } 
+.b-topic[data-track_topic="498992"]>.inner  .b-status-line .section:not(:last-child):before,
+.b-topic[data-track_topic="498992"]>.inner  .b-status-line .section.main:before,
+.b-topic[data-track_topic="498992"]>.inner .b-status-line .section:not(:last-child):after,
+.b-topic[data-track_topic="498992"]>.inner .b-status-line .section.main:after { 
 display: none;
 }
