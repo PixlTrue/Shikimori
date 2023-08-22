@@ -1634,7 +1634,7 @@ display: none;
 .b-topic[data-track_topic="507616"]>.inner .b-status-line .section.created_at 
 { visibility: hidden; color: #ddd; } 
 .b-topic[data-track_topic="507616"]>.inner .b-status-line .section.created_at:before 
-{ content: "Альбом путишествий"; position: absolute; visibility: visible; } 
+{ content: "Выставка иллюстраций"; position: absolute; visibility: visible; } 
 .b-topic[data-track_topic="507616"]>.inner  .b-status-line .section:not(:last-child):before,
 .b-topic[data-track_topic="507616"]>.inner  .b-status-line .section.main:before,
 .b-topic[data-track_topic="507616"]>.inner .b-status-line .section:not(:last-child):after,
