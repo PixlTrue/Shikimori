@@ -112,6 +112,13 @@
 }
 /* Картинки персонажей на страницах */
 /* 5 (★) */
+/* Argenti */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4423"] {
+    background: url(https://desu.shikimori.me/system/images/original/137567.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
 /* Bailu */
 .b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3884"] {
     background: url(https://moe.shikimori.me/system/images/original/132287.png);
