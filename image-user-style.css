@@ -354,3 +354,9 @@
 .b-comment[data-user_id="310307"] > .inner header img {
   border-radius: 50%;
 }
+/* Hasumur */
+.b-clubs-menu .members .b-user[id="752783"] img,
+.b-user.named_avatar[id="752783"] img,
+.b-comment[data-user_id="752783"] > .inner header img {
+  border-radius: 50%;
+}
