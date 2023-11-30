@@ -348,3 +348,9 @@
 .b-comment[data-user_id="1119580"] > .inner header img {
   border-radius: 50%;
 }
+/* redz */
+.b-clubs-menu .members .b-user[id="310307"] img,
+.b-user.named_avatar[id="310307"] img,
+.b-comment[data-user_id="310307"] > .inner header img {
+  border-radius: 50%;
+}
