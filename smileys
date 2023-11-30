@@ -1,0 +1,616 @@
+/* Смайлики */
+img.smiley {
+    background-size: 32px 32px;
+    overflow: hidden;
+    width: 32px;
+}
+img[src$="/images/smileys/:depressed2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/42691d4f0f35b6bcfa3ae4009c0dae09_834757971416485741.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:oh:.gif"] {
+    background: url(https://cdn.7tv.app/emote/644d3ec02da080b4cff4a26a/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:revenge:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/5f283599530abe6e8d09f50bb14b7b2a_4679747953190132107.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:love2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/6140278dd84c457f11e00d3792cbf099_3944359462204262045.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:happy_cry:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/94f93d898c18e70eb1820f9a83b37f7d_2734402687867146709.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:thumbup:.gif"] {
+    background: url(https://cdn.7tv.app/emote/648157e3cde3496c398658a3/2x.webp) no-repeat; 
+    width: 39px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:star:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6509050bbf154a991369e0d9/2x.webp) no-repeat; 
+    width: 36px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:tea2:.gif"] {
+    background: url(https://cdn.7tv.app/emote/63e7192f8444e644401a158c/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:tea shock:.gif"] {
+    background: url(https://cdn.7tv.app/emote/644c720670a213f616c7a608/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shocked3:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/05/12/e502eb7e4c5f0caba55bca4e0e7cd3ed_7599097940475832185.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:Happy Birthday:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/1364469419947815504f1e2885be0150_4271137375081909882.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64570beb89e08d1e8df27c8f/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry4:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/2f55e1f199efc29f3c4e9076d3288365_7013897107954424230.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:evil:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6469399d739d3ac25109889a/2x.webp) no-repeat;
+    width: 96px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:evil2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/f3c5294aa2aeb7e1e34f0cc32c14d45e_3875259619869260379.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:sleep:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645e201e7fa1a5e0ee9823b0/2x.webp) no-repeat;
+    width: 42px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:gaze:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/7f779636a47eb13c250bc9c6367ebd0d_8259216778620272532.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:ooph:.gif"] {
+    background: url(https://cdn.7tv.app/emote/647118a6361980b8f005c49a/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hope:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/1d19e4ebba7f763c23fa5a257f2df8a5_3825527266779439626.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hot:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/836d62a3a7f94b17079c6e4ec79192f1_4559439987895171506.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:cry:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/47ddf01d34e9a87f7dff3dfc618dd936_8998940943316629395.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:oh2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/d26451b3d5a96f1539e49f9ed6d7243a_3765538984649249322.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hope3:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/cdf43782c615e0a7f871d92c64bec0a9_1088253528936134356.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/+_+.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/1070360296490795069.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:strange:.gif"] {
+    background: url(https://cdn.7tv.app/emote/649caac7776f62c3a25c1721/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:s2:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6471d5d6bbda77d37564d62b/2x.webp) no-repeat;
+    width: 53px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:s3:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/912d9abf4c156f51367e41256395fa08_5659649110301141399.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:advise:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/4c9f88bd060da3bbca756134635845c2_6716013048319903165.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:smoker:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6452e8c12d06e2409f74da46/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:roll:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645b2f751c967ef7206f53ed/2x.webp) no-repeat; 
+    width: 57px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:-o.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/32c866cf2fc83076c6ff974968fa2674_9113596049053848725.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:flute:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/4ad374062b63dbc3d4c5911986c03c4a_8926406062927288661.png) no-repeat;
+    width: 51px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bow:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/896455456866848798.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hopelles:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/05/12/6b46bb4360bf7a9132a9ab061b43ce50_252167555488128248.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:love:.gif"] {
+    background: url(https://img-os-static.hoyolab.com/communityWeb/upload/16ca0045106b892d5443d3b626d8539f.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:yahoo:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/5a3ce434c5412bfe02f78a33aaa3f7f2_843725108637061971.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:smoker2:.gif"] {
+    background: url(https://upload-bbs.mihoyo.com/upload/2022/04/24/9f2fd95523cca60843336d0aa14b225f_2127491934101263634.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:V:.gif"] {
+    background: url(https://upload-os-bbs.hoyolab.com/upload/2023/03/13/ca55ea6306594107f58a91a2f82b0686_2267399049922485504.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:V3:.gif"] {
+    background: url(https://upload-os-bbs.hoyolab.com/upload/2023/03/13/03ca55317d6cb46666bdced2a996367b_8032746636759976041.png) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:whip:.gif"] {
+    background: url(https://cdn.7tv.app/emote/644d45829d0ff0a50aaad8f7/2x.webp) no-repeat; 
+    width: 71px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:sleepy:.gif"] {
+    background: url(https://cdn.7tv.app/emote/644d327ab386e2123c0f05fd/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry6:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6452df27086b4c5098987ec9/2x.webp) no-repeat;
+    width: 59px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:disappointment:.gif"] {
+    background: url(https://cdn.7tv.app/emote/644664541ad52ac3b96f1cb1/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:sarcasm:.gif"] {
+    width: 40px;
+}
+img[src$="/images/smileys/:kya:.gif"] {
+    width: 64px;
+}
+img[src$="/images/smileys/:kiss:.gif"] {
+    background: url(https://cdn.7tv.app/emote/647225ad5293007dd36c7987/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bye:.gif"] {
+    background: url(https://cdn.7tv.app/emote/63e981e2efb47752e7c482a1/2x.webp) no-repeat; 
+    width: 57px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry3:.gif"] {
+    background: url(https://cdn.7tv.app/emote/628e3d7badc5e81118ca238d/2x.webp) no-repeat; 
+    width: 57px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry2:.gif"] {
+    background: url(https://cdn.7tv.app/emote/644b676802d65be125e1da74/2x.webp) no-repeat; 
+    width: 71px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:twisted:.gif"] {
+    background: url(https://cdn.7tv.app/emote/63ed85bdf9cdbbe664b15653/2x.webp) no-repeat; 
+    width: 50px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:frozen3:.gif"] {
+    background: url(https://dere.shikimori.me/system/images/original/134349.gif) no-repeat; 
+    width: 51px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:!:.gif"] {
+    background: url(https://cdn.7tv.app/emote/63ea1176d84f8e2564c2b0d4/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:interested:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64a44d0d3c026daae7bcfa5c/2x.webp) no-repeat; 
+    width: 42px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:study2:.gif"] {
+    background: url(https://moe.shikimori.me/system/images/original/134352.gif) no-repeat; 
+    width: 51px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:study3:.gif"] {
+    background: url(https://moe.shikimori.me/system/images/original/134347.gif) no-repeat;
+    width: 26px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:flute:.gif"] {
+    background: url(https://desu.shikimori.me/system/images/original/134348.gif) no-repeat; 
+    width: 51px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:wink:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/952770597883113522.gif) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hunf:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/967404640775835648.webp) no-repeat;
+    width: 29px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hi:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/1071963823268974694.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bdl:.gif"] {
+    background: url(https://cdn.7tv.app/emote/647507cb8e27395505d6fc06/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:prcl:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64628e4de08ca3c3a492d4ae/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:stress:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/909445263595274280.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shock:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/902221983582924800.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:scream:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/1100434141490729073.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:dont listen:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/1070725854985986088.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:-P.gif"] {
+    background: url(https://cdn.7tv.app/emote/645da023687d6f0c5545789d/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:cool2:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64532fa1cfa3d4bc3fe05dde/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hurray:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64629c99e08ca3c3a492d747/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:Cry3:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/895020666020053022.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bdl2:.gif"] {
+    background: url(https://cdn.discordapp.com/emojis/895020666271694858.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:very sad:.gif"] {
+    background: url(https://moe.shikimori.me/system/images/original/134397.gif) no-repeat;
+    width: 23px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:evil3:.gif"] {
+    background: url(https://kawai.shikimori.me/system/images/original/134396.gif) no-repeat;
+    width: 34px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:happy3:.gif"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/134395.gif) no-repeat;
+    width: 24px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bored:.gif"] {
+    background: url(https://dere.shikimori.me/system/images/original/134394.gif) no-repeat;
+    width: 28px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:Warning:.gif"] {
+    background: url(https://desu.shikimori.me/system/images/original/134458.jpg) no-repeat;
+    width: 40px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shock2:.gif"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/134520.gif) no-repeat;
+    width: 42px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:8):.gif"] {
+    background: url(https://desu.shikimori.me/system/images/original/134538.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:water:.gif"] {
+    background: url(https://cdn.7tv.app/emote/646938a4a8c78dc467372ebd/2x.webp) no-repeat;
+    width: 64px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:Ban:.gif"] {
+    background: url(https://cdn.7tv.app/emote/648157a46285406852166b16/2x.webp) no-repeat;
+    width: 36px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shocked:.gif"] {
+    background: url(https://dere.shikimori.me/system/images/original/134544.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:sick:.gif"] {
+    background: url(https://moe.shikimori.me/system/images/original/134537.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:angry5:.gif"] {
+    background: url(https://kawai.shikimori.me/system/images/original/134536.png) no-repeat;
+    width: 33px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:s4:.gif"] {
+    background: url(https://kawai.shikimori.me/system/images/original/134541.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shocked2:.gif"] {
+    background: url(https://cdn.7tv.app/emote/646fba3de91f85c3f53009db/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:dont want:.gif"] {
+    background: url(https://moe.shikimori.me/system/images/original/134542.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:Im dead:.gif"] {
+    background: url(https://nyaa.shikimori.me/system/images/original/134605.gif) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:caterpillar:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6483705d76b53e625d59118b/2x.webp) no-repeat;
+    width: 60px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shy:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6474d71c48f3329685a91f51/2x.webp) no-repeat;
+    width: 36px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:kya:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645094368415fdda8b735414/2x.webp) no-repeat;
+    width: 53px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:scared:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64546384b66cbeea6f9cabf9/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:dunno:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6459807c106e4313fec4874d/2x.webp) no-repeat;
+    width: 35px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:s1:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64562294e6a8756fb6f008f9/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:cool:.gif"] {
+    background: url(https://cdn.7tv.app/emote/646296d9e08ca3c3a492d64c/2x.webp) no-repeat;
+    width: 75px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:frozen:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6458ee924a9657c9ee3f6758/2x.webp) no-repeat;
+    width: 36px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:strange4:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645596139ed2af81cfa29213/2x.webp) no-repeat;
+    width: 33px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:noooo:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64622398cad9320b9323b177/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:watching:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6463915d23c4501d0f3a73dd/2x.webp) no-repeat;
+    width: 44px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:happy:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6463e3526989b9b0d46a3835/2x.webp) no-repeat;
+    width: 48px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hypno:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645d2edd7f4086ee103a27fa/2x.webp) no-repeat;
+    width: 69px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:dance:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645d621e7fa1a5e0ee980e8e/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:shocked4:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645f0881d65ebaeb2379be87/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:).gif"] {
+    background: url(https://cdn.7tv.app/emote/645f70d248e90f69f0788dcd/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:gaze:.gif"] {
+    background: url(https://cdn.7tv.app/emote/645e4c5b7fa1a5e0ee9829fe/2x.webp) no-repeat;
+    width: 82px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:kia:.gif"] {
+    background: url(https://cdn.7tv.app/emote/646937eb58d599a0419faa6e/2x.webp) no-repeat;
+    width: 53px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:ball:.gif"] {
+    background: url(https://cdn.7tv.app/emote/647431161e0850ff1f6c20d3/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:gamer:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6481258dcde3496c39864fe7/2x.webp) no-repeat;
+    width: 41px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:strange3:.gif"] {
+    background: url(https://cdn.7tv.app/emote/648114a26285406852165eb7/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:depressed:.gif"] {
+    background: url(https://cdn.7tv.app/emote/647addb00c7cd505faf362f6/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bath:.gif"] {
+    background: url(https://cdn.7tv.app/emote/6481329e6285406852166588/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:bunch:.gif"] {
+    background: url(https://shikimori.me/system/images/original/136217.png) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:strange2:.gif"] {
+    background: url(https://cdn.7tv.app/emote/648114e328b72684e122c563/2x.webp) no-repeat;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:cold2:.gif"] {
+    background: url(https://cdn.7tv.app/emote/646f844c361980b8f0057237/2x.webp) no-repeat;
+    width: 58px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:s:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64d8c8f5f93599215f559128/2x.webp) no-repeat;
+    width: 72px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:play:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64ff679a72fcdfa8cb02f0bf/2x.webp) no-repeat;
+    width: 57px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
