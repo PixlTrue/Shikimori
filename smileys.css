@@ -145,7 +145,7 @@ img[src$="/images/smileys/:s3:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:advise:.gif"] {
-    background: url(https://upload-bbs.mihoyo.com/upload/2022/06/12/4c9f88bd060da3bbca756134635845c2_6716013048319903165.png) no-repeat; 
+    background: url(https://cdn.7tv.app/emote/6536f55f0fb09df39cb84b24/2x.webp) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -197,6 +197,11 @@ img[src$="/images/smileys/:smoker2:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:V:.gif"] {
+    background: url(https://cdn.7tv.app/emote/652308cf5795d60c78b7d36b/2x.webp) no-repeat; 
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:V2:.gif"] {
     background: url(https://upload-os-bbs.hoyolab.com/upload/2023/03/13/ca55ea6306594107f58a91a2f82b0686_2267399049922485504.png) no-repeat; 
     padding-bottom: 32px;
     background-size: cover;
@@ -433,8 +438,7 @@ img[src$="/images/smileys/:sick:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:angry5:.gif"] {
-    background: url(https://kawai.shikimori.me/system/images/original/134536.png) no-repeat;
-    width: 33px;
+    background: url(https://cdn.7tv.app/emote/655356c49e081c7db7cb5a9f/2x.webp) no-repeat;
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -534,7 +538,7 @@ img[src$="/images/smileys/:hypno:.gif"] {
     background-size: cover;
 }
 img[src$="/images/smileys/:dance:.gif"] {
-    background: url(https://cdn.7tv.app/emote/645d621e7fa1a5e0ee980e8e/2x.webp) no-repeat;
+    background: url(https://cdn.7tv.app/emote/6519c774b9f031976172bf8b/2x.webp) no-repeat;
     padding-bottom: 32px;
     background-size: cover;
 }
@@ -611,6 +615,18 @@ img[src$="/images/smileys/:s:.gif"] {
 img[src$="/images/smileys/:play:.gif"] {
     background: url(https://cdn.7tv.app/emote/64ff679a72fcdfa8cb02f0bf/2x.webp) no-repeat;
     width: 57px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:hot3:.gif"] {
+    background: url(https://cdn.7tv.app/emote/653c09a40dcbc0ea5972ed17/2x.webp) no-repeat;
+    width: 57px;
+    padding-bottom: 32px;
+    background-size: cover;
+}
+img[src$="/images/smileys/:sad2:.gif"] {
+    background: url(https://cdn.7tv.app/emote/64c3da86b1a8501d3aa7dd47/2x.webp) no-repeat;
+    width: 170px;
     padding-bottom: 32px;
     background-size: cover;
 }
