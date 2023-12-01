@@ -979,6 +979,47 @@ content: url(https://desu.shikimori.me/system/images/original/132189.webp);
  background-image: url(https://dere.shikimori.me/system/images/original/132274.png); 
  background-size: cover; 
  }
+/* Guinaifen */
+.b-topic>.inner header .poster[href*="topics/529246"] img {
+content: url(https://desu.shikimori.one/system/images/original/137234.png);
+} 
+ .b-topic[data-track_topic="529246"]>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="529246"]>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; } 
+ .b-topic[data-track_topic="529246"]>.inner  .b-status-line .section:not(:last-child):before { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 0; 
+ margin-left: 0; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="529246"]>.inner  .b-status-line .section.main:before { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ width: 0; 
+ background-image: url(https://nyaa.shikimori.me/system/images/original/132265.png); 
+ background-size: cover; 
+ } 
+ .b-topic[data-track_topic="529246"]>.inner .b-status-line .section:not(:last-child):after { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 3px; 
+ border-right: 1px solid #acb1b4; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="529246"]>.inner .b-status-line .section.main:after { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ margin-right: 3px; 
+ width: 0px; 
+ background-image: url(https://desu.shikimori.me/system/images/original/132268.png); 
+ background-size: cover; 
+ }
 /* Herta */
 .b-topic>.inner header .poster[href*="topics/510285"] img {
 content: url(https://desu.shikimori.me/system/images/original/132190.webp);
