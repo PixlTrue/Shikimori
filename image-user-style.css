@@ -360,3 +360,9 @@
 .b-comment[data-user_id="752783"] > .inner header img {
   border-radius: 50%;
 }
+/* Mikola39 */
+.b-clubs-menu .members .b-user[id="235791"] img,
+.b-user.named_avatar[id="235791"] img,
+.b-comment[data-user_id="235791"] > .inner header img {
+  border-radius: 50%;
+}
