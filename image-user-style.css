@@ -366,3 +366,9 @@
 .b-comment[data-user_id="235791"] > .inner header img {
   border-radius: 50%;
 }
+/* Библиотечный Тушкан */
+.b-clubs-menu .members .b-user[id="493053"] img,
+.b-user.named_avatar[id="493053"] img,
+.b-comment[data-user_id="493053"] > .inner header img {
+  border-radius: 50%;
+}
