@@ -372,3 +372,15 @@
 .b-comment[data-user_id="493053"] > .inner header img {
   border-radius: 50%;
 }
+/* AlekseySapi */
+.b-clubs-menu .members .b-user[id="261034"] img,
+.b-user.named_avatar[id="261034"] img,
+.b-comment[data-user_id="261034"] > .inner header img {
+  border-radius: 50%;
+}
+/* ppsk */
+.b-clubs-menu .members .b-user[id="1259526"] img,
+.b-user.named_avatar[id="1259526"] img,
+.b-comment[data-user_id="1259526"] > .inner header img {
+  border-radius: 50%;
+}
