@@ -384,3 +384,9 @@
 .b-comment[data-user_id="1259526"] > .inner header img {
   border-radius: 50%;
 }
+/* Vovan4eg */
+.b-clubs-menu .members .b-user[id="856550"] img,
+.b-user.named_avatar[id="856550"] img,
+.b-comment[data-user_id="856550"] > .inner header img {
+  border-radius: 50%;
+}
