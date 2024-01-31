@@ -76,6 +76,88 @@ line-height: 2;
 .b-topic>.inner.block .b-status-line {
   display: none;
 }
+/* Acheron */
+.b-topic>.inner header .poster[href*="-acheron"] img {
+content: url(https://desu.shikimori.one/system/images/original/139316.webp);
+} 
+ .b-topic[data-url*="-acheron"]>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-acheron"]>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; } 
+ .b-topic[data-url*="-acheron"]>.inner  .b-status-line .section:not(:last-child):before { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 0; 
+ margin-left: 0; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-url*="-acheron"]>.inner  .b-status-line .section.main:before { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ width: 0; 
+ background-image: url(https://nyaa.shikimori.me/system/images/original/132265.png); 
+ background-size: cover; 
+ } 
+ .b-topic[data-url*="-acheron"]>.inner .b-status-line .section:not(:last-child):after { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 3px; 
+ border-right: 1px solid #acb1b4; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-url*="-acheron"]>.inner .b-status-line .section.main:after { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ margin-right: 3px; 
+ width: 0px; 
+ background-image: url(https://kawai.shikimori.me/system/images/original/132271.png); 
+ background-size: cover; 
+ }
+/* Aventurine */
+.b-topic>.inner header .poster[href*="topics/537341"] img {
+content: url(https://desu.shikimori.one/system/images/original/139319.webp);
+} 
+ .b-topic[data-track_topic="537341"]>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="537341"]>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; } 
+ .b-topic[data-track_topic="537341"]>.inner  .b-status-line .section:not(:last-child):before { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 0; 
+ margin-left: 0; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="537341"]>.inner  .b-status-line .section.main:before { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ width: 0; 
+ background-image: url(https://kawai.shikimori.me/system/images/original/132266.png); 
+ background-size: cover; 
+ } 
+ .b-topic[data-track_topic="537341"]>.inner .b-status-line .section:not(:last-child):after { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 3px; 
+ border-right: 1px solid #acb1b4; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="537341"]>.inner .b-status-line .section.main:after { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ margin-right: 3px; 
+ width: 0px; 
+ background-image: url(https://nyaa.shikimori.me/system/images/original/132270.png); 
+ background-size: cover; 
+ }
 /* Bailu */
 .b-topic>.inner header .poster[href*="topics/513904"] img {
 content: url(https://desu.shikimori.me/system/images/original/132199.webp);
@@ -115,6 +197,47 @@ content: url(https://desu.shikimori.me/system/images/original/132199.webp);
  margin-right: 3px; 
  width: 0px; 
  background-image: url(https://kawai.shikimori.me/system/images/original/132271.png); 
+ background-size: cover; 
+ }
+/* Black Swan */
+.b-topic>.inner header .poster[href*="topics/537338"] img {
+content: url(https://desu.shikimori.one/system/images/original/139310.webp);
+} 
+ .b-topic[data-track_topic="537338"]>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="537338"]>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; } 
+ .b-topic[data-track_topic="537338"]>.inner  .b-status-line .section:not(:last-child):before { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 0; 
+ margin-left: 0; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="537338"]>.inner  .b-status-line .section.main:before { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ width: 0; 
+ background-image: url(https://nyaa.shikimori.me/system/images/original/132265.png); 
+ background-size: cover; 
+ } 
+ .b-topic[data-track_topic="537338"]>.inner .b-status-line .section:not(:last-child):after { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 3px; 
+ border-right: 1px solid #acb1b4; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="537338"]>.inner .b-status-line .section.main:after { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ margin-right: 3px; 
+ width: 0px; 
+ background-image: url(https://dere.shikimori.me/system/images/original/132274.png); 
  background-size: cover; 
  }
 /* Blade */
@@ -814,6 +937,47 @@ content: url(https://desu.shikimori.me/system/images/original/132210.webp);
  background-image: url(https://desu.shikimori.me/system/images/original/132273.png); 
  background-size: cover; 
  }
+/* Sparkle */
+.b-topic>.inner header .poster[href*="-sparkle"] img {
+content: url(https://desu.shikimori.one/system/images/original/139313.webp);
+} 
+ .b-topic[data-url*="-sparkle"]>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-url*="-sparkle"]>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦ ✦"; position: absolute; visibility: visible; } 
+ .b-topic[data-url*="-sparkle"]>.inner  .b-status-line .section:not(:last-child):before { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 0; 
+ margin-left: 0; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-url*="-sparkle"]>.inner  .b-status-line .section.main:before { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ width: 0; 
+ background-image: url(https://dere.shikimori.me/system/images/original/132264.png); 
+ background-size: cover; 
+ } 
+ .b-topic[data-url*="-sparkle"]>.inner .b-status-line .section:not(:last-child):after { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 3px; 
+ border-right: 1px solid #acb1b4; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-url*="-sparkle"]>.inner .b-status-line .section.main:after { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ margin-right: 3px; 
+ width: 0px; 
+ background-image: url(https://desu.shikimori.me/system/images/original/132273.png); 
+ background-size: cover; 
+ }
 /* Luocha */
 .b-topic>.inner header .poster[href*="-luocha"] img {
 content: url(https://desu.shikimori.me/system/images/original/132208.webp);
@@ -977,6 +1141,47 @@ content: url(https://desu.shikimori.me/system/images/original/132189.webp);
  margin-right: 3px; 
  width: 0px; 
  background-image: url(https://dere.shikimori.me/system/images/original/132274.png); 
+ background-size: cover; 
+ }
+/* Gallagher */
+.b-topic>.inner header .poster[href*="topics/537340"] img {
+content: url(https://desu.shikimori.one/system/images/original/139322.webp);
+} 
+ .b-topic[data-track_topic="537340"]>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="537340"]>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; } 
+ .b-topic[data-track_topic="537340"]>.inner  .b-status-line .section:not(:last-child):before { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 0; 
+ margin-left: 0; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="537340"]>.inner  .b-status-line .section.main:before { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ width: 0; 
+ background-image: url(https://moe.shikimori.me/system/images/original/132267.png); 
+ background-size: cover; 
+ } 
+ .b-topic[data-track_topic="537340"]>.inner .b-status-line .section:not(:last-child):after { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 3px; 
+ border-right: 1px solid #acb1b4; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="537340"]>.inner .b-status-line .section.main:after { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ margin-right: 3px; 
+ width: 0px; 
+ background-image: url(https://desu.shikimori.me/system/images/original/132268.png); 
  background-size: cover; 
  }
 /* Guinaifen */
@@ -1258,6 +1463,47 @@ content: url(https://desu.shikimori.me/system/images/original/132192.webp);
  padding-right: 20px; 
  } 
  .b-topic[data-track_topic="507630"]>.inner .b-status-line .section.main:after { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ margin-right: 3px; 
+ width: 0px; 
+ background-image: url(https://dere.shikimori.me/system/images/original/132269.png); 
+ background-size: cover; 
+ }
+/* Misha */
+.b-topic>.inner header .poster[href*="topics/537339"] img {
+content: url(https://desu.shikimori.one/system/images/original/139325.webp);
+} 
+ .b-topic[data-track_topic="537339"]>.inner .b-status-line .section.created_at 
+ { visibility: hidden; color: #fdd383; } 
+ .b-topic[data-track_topic="537339"]>.inner .b-status-line .section.created_at:before 
+ { content: "✦ ✦ ✦ ✦"; position: absolute; visibility: visible; } 
+ .b-topic[data-track_topic="537339"]>.inner  .b-status-line .section:not(:last-child):before { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 0; 
+ margin-left: 0; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="537339"]>.inner  .b-status-line .section.main:before { 
+ align-self: center; 
+ visibility: visible; 
+ height: 20px; 
+ width: 0; 
+ background-image: url(https://kawai.shikimori.me/system/images/original/132261.png); 
+ background-size: cover; 
+ } 
+ .b-topic[data-track_topic="537339"]>.inner .b-status-line .section:not(:last-child):after { 
+ content: ''; 
+ display: inline; 
+ line-height: normal; 
+ margin-right: 3px; 
+ border-right: 1px solid #acb1b4; 
+ padding-right: 20px; 
+ } 
+ .b-topic[data-track_topic="537339"]>.inner .b-status-line .section.main:after { 
  align-self: center; 
  visibility: visible; 
  height: 20px; 
