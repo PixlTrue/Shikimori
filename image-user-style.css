@@ -438,3 +438,9 @@
 .b-comment[data-user_id="359874"] > .inner header img {
   border-radius: 50%;
 }
+/* MafuShin */
+.b-clubs-menu .members .b-user[id="657971"] img,
+.b-user.named_avatar[id="657971"] img,
+.b-comment[data-user_id="657971"] > .inner header img {
+  border-radius: 50%;
+}
