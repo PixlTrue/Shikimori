@@ -444,3 +444,9 @@
 .b-comment[data-user_id="657971"] > .inner header img {
   border-radius: 50%;
 }
+/* Wang */
+.b-clubs-menu .members .b-user[id="706572"] img,
+.b-user.named_avatar[id="706572"] img,
+.b-comment[data-user_id="706572"] > .inner header img {
+  border-radius: 50%;
+}
