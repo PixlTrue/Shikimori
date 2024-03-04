@@ -456,3 +456,9 @@
 .b-comment[data-user_id="1064263"] > .inner header img {
   border-radius: 50%;
 }
+/* saturn princess */
+.b-clubs-menu .members .b-user[id="565864"] img,
+.b-user.named_avatar[id="565864"] img,
+.b-comment[data-user_id="565864"] > .inner header img {
+  border-radius: 50%;
+}
