@@ -123,3 +123,11 @@
   .b-club[id='4441'] .name-logo::before {
     background-image: url(https://kawai.shikimori.me/system/clubs/main/4441.png);
   }
+/* Zenless Zone Zero */
+.b-club[id='3603']::before {
+    background-image: url(https://upload-os-bbs.hoyolab.com/upload/2023/11/10/369285726/223e2810439796ba461b7fdd1c68d444_8163995532190212946.jpg);
+    background-size: cover;
+  }
+  .b-club[id='3603'] .name-logo::before {
+    background-image: url(https://desu.shikimori.one/system/clubs/main/3603.jpg);
+  }
