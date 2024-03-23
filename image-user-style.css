@@ -462,3 +462,21 @@
 .b-comment[data-user_id="565864"] > .inner header img {
   border-radius: 50%;
 }
+/* sadsad */
+.b-clubs-menu .members .b-user[id="249373"] img,
+.b-user.named_avatar[id="249373"] img,
+.b-comment[data-user_id="249373"] > .inner header img {
+  border-radius: 50%;
+}
+/* Иннушка */
+.b-clubs-menu .members .b-user[id="88430"] img,
+.b-user.named_avatar[id="88430"] img,
+.b-comment[data-user_id="88430"] > .inner header img {
+  border-radius: 50%;
+}
+/* huma_ns */
+.b-clubs-menu .members .b-user[id="1351369"] img,
+.b-user.named_avatar[id="1351369"] img,
+.b-comment[data-user_id="1351369"] > .inner header img {
+  border-radius: 50%;
+}
