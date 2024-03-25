@@ -480,3 +480,9 @@
 .b-comment[data-user_id="1351369"] > .inner header img {
   border-radius: 50%;
 }
+/* yandere girl */
+.b-clubs-menu .members .b-user[id="1337504"] img,
+.b-user.named_avatar[id="1337504"] img,
+.b-comment[data-user_id="1337504"] > .inner header img {
+  border-radius: 50%;
+}
