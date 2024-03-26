@@ -140,6 +140,13 @@
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
 }
+/* Black Swan */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4603"] {
+    background: url(https://desu.shikimori.one/system/images/original/139309.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
 /* Blade */
 .b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3887"] {
     background: url(https://desu.shikimori.me/system/images/original/132288.png);
@@ -147,9 +154,9 @@
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
 }
-/* Black Swan */
-.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4603"] {
-    background: url(https://desu.shikimori.one/system/images/original/139309.png);
+/* Boothill */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4723"] {
+    background: url(https://desu.shikimori.one/system/images/original/139783.png);
     background-size: cover;
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
@@ -220,6 +227,13 @@
 /* Luocha */
 .b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3895"] {
     background: url(https://kawai.shikimori.me/system/images/original/132296.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Robin */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4722"] {
+    background: url(https://desu.shikimori.one/system/images/original/139781.png);
     background-size: cover;
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
