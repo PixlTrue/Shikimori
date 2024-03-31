@@ -486,3 +486,9 @@
 .b-comment[data-user_id="1337504"] > .inner header img {
   border-radius: 50%;
 }
+/* flaffy69 */
+.b-clubs-menu .members .b-user[id="1361413"] img,
+.b-user.named_avatar[id="1361413"] img,
+.b-comment[data-user_id="1361413"] > .inner header img {
+  border-radius: 50%;
+}
