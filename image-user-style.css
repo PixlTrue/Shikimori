@@ -492,3 +492,9 @@
 .b-comment[data-user_id="1361413"] > .inner header img {
   border-radius: 50%;
 }
+/* midrangernofear */
+.b-clubs-menu .members .b-user[id="644377"] img,
+.b-user.named_avatar[id="644377"] img,
+.b-comment[data-user_id="644377"] > .inner header img {
+  border-radius: 50%;
+}
