@@ -498,3 +498,15 @@
 .b-comment[data-user_id="644377"] > .inner header img {
   border-radius: 50%;
 }
+/* bird(•ө•) */
+.b-clubs-menu .members .b-user[id="61421"] img,
+.b-user.named_avatar[id="61421"] img,
+.b-comment[data-user_id="61421"] > .inner header img {
+  border-radius: 50%;
+}
+/* Reimise */
+.b-clubs-menu .members .b-user[id="250117"] img,
+.b-user.named_avatar[id="250117"] img,
+.b-comment[data-user_id="250117"] > .inner header img {
+  border-radius: 50%;
+}
