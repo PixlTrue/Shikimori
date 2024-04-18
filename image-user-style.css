@@ -510,3 +510,15 @@
 .b-comment[data-user_id="250117"] > .inner header img {
   border-radius: 50%;
 }
+/* ルユ みつき */
+.b-clubs-menu .members .b-user[id="1189590"] img,
+.b-user.named_avatar[id="1189590"] img,
+.b-comment[data-user_id="1189590"] > .inner header img {
+  border-radius: 50%;
+}
+/* Nallack */
+.b-clubs-menu .members .b-user[id="594608"] img,
+.b-user.named_avatar[id="594608"] img,
+.b-comment[data-user_id="594608"] > .inner header img {
+  border-radius: 50%;
+}
