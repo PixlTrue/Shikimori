@@ -522,3 +522,15 @@
 .b-comment[data-user_id="594608"] > .inner header img {
   border-radius: 50%;
 }
+/* StarLordS */
+.b-clubs-menu .members .b-user[id="336446"] img,
+.b-user.named_avatar[id="336446"] img,
+.b-comment[data-user_id="336446"] > .inner header img {
+  border-radius: 50%;
+}
+/* Nitro.exe */
+.b-clubs-menu .members .b-user[id="570045"] img,
+.b-user.named_avatar[id="570045"] img,
+.b-comment[data-user_id="570045"] > .inner header img {
+  border-radius: 50%;
+}
