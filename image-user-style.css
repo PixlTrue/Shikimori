@@ -534,3 +534,9 @@
 .b-comment[data-user_id="570045"] > .inner header img {
   border-radius: 50%;
 }
+/* Kri_number_1 */
+.b-clubs-menu .members .b-user[id="1269933"] img,
+.b-user.named_avatar[id="1269933"] img,
+.b-comment[data-user_id="1269933"] > .inner header img {
+  border-radius: 50%;
+}
