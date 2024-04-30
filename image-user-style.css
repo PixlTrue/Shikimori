@@ -540,3 +540,15 @@
 .b-comment[data-user_id="1269933"] > .inner header img {
   border-radius: 50%;
 }
+/* Sineya */
+.b-clubs-menu .members .b-user[id="359935"] img,
+.b-user.named_avatar[id="359935"] img,
+.b-comment[data-user_id="359935"] > .inner header img {
+  border-radius: 50%;
+}
+/* tako */
+.b-clubs-menu .members .b-user[id="316589"] img,
+.b-user.named_avatar[id="316589"] img,
+.b-comment[data-user_id="316589"] > .inner header img {
+  border-radius: 50%;
+}
