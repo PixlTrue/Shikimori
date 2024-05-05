@@ -552,3 +552,9 @@
 .b-comment[data-user_id="316589"] > .inner header img {
   border-radius: 50%;
 }
+/* Vantikus */
+.b-clubs-menu .members .b-user[id="1458896"] img,
+.b-user.named_avatar[id="1458896"] img,
+.b-comment[data-user_id="1458896"] > .inner header img {
+  border-radius: 50%;
+}
