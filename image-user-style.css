@@ -606,3 +606,27 @@
 .b-comment[data-user_id="1355048"] > .inner header img {
   border-radius: 50%;
 }
+/* linarix */
+.b-clubs-menu .members .b-user[id="5437"] img,
+.b-user.named_avatar[id="5437"] img,
+.b-comment[data-user_id="5437"] > .inner header img {
+  border-radius: 50%;
+}
+/* ☭Starogradoff☭ */
+.b-clubs-menu .members .b-user[id="1445050"] img,
+.b-user.named_avatar[id="1445050"] img,
+.b-comment[data-user_id="1445050"] > .inner header img {
+  border-radius: 50%;
+}
+/* ghfade */
+.b-clubs-menu .members .b-user[id="1368153"] img,
+.b-user.named_avatar[id="1368153"] img,
+.b-comment[data-user_id="1368153"] > .inner header img {
+  border-radius: 50%;
+}
+/* N7DeathGun */
+.b-clubs-menu .members .b-user[id="1399710"] img,
+.b-user.named_avatar[id="1399710"] img,
+.b-comment[data-user_id="1399710"] > .inner header img {
+  border-radius: 50%;
+}
