@@ -189,6 +189,13 @@
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
 }
+/* Feixiao */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4867"] {
+    background: url(https://desu.shikimori.one/system/images/original/144771.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
 /* Fu Xuan */
 .b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3890"] {
     background: url(https://desu.shikimori.one/system/images/original/132291.png);
@@ -234,6 +241,13 @@
 /* Kafka */
 .b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="3894"] {
     background: url(https://nyaa.shikimori.me/system/images/original/132295.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Lingsha */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4868"] {
+    background: url(https://desu.shikimori.one/system/images/original/144775.png);
     background-size: cover;
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
@@ -396,6 +410,13 @@
 /* Misha */
 .b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4607"] {
     background: url(https://desu.shikimori.one/system/images/original/139324.png);
+    background-size: cover;
+    text-shadow: 1px 1px 2px black, 
+    0 0 1em black, 0 0 0.2em black;
+}
+/* Moze */
+.b-clubs-menu > .block > .block > .b-menu-line > .b-link[href*="4869"] {
+    background: url(https://desu.shikimori.one/system/images/original/144777.png);
     background-size: cover;
     text-shadow: 1px 1px 2px black, 
     0 0 1em black, 0 0 0.2em black;
