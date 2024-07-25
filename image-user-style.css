@@ -702,3 +702,9 @@
 .b-comment[data-user_id="861962"] > .inner header img {
   border-radius: 50%;
 }
+/* Reim Zefius */
+.b-clubs-menu .members .b-user[id="584811"] img,
+.b-user.named_avatar[id="584811"] img,
+.b-comment[data-user_id="584811"] > .inner header img {
+  border-radius: 50%;
+}
