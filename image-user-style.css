@@ -696,3 +696,9 @@
 .b-comment[data-user_id="378174"] > .inner header img {
   border-radius: 50%;
 }
+/* floori */
+.b-clubs-menu .members .b-user[id="861962"] img,
+.b-user.named_avatar[id="861962"] img,
+.b-comment[data-user_id="861962"] > .inner header img {
+  border-radius: 50%;
+}
