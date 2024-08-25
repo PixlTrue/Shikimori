@@ -6,17 +6,6 @@
 .b-comment[data-user_id="622401"] > .inner header img {
   border-radius: 50%;
 }
-/* Аясэ-тян */
-.b-clubs-menu .members .b-user[id="6942"] img,
-.b-user.named_avatar[id="6942"] img,
-.b-comment[data-user_id="6942"] > .inner header img {
-  border-radius: 50%;
-}
-.b-comment[data-user_id="6942"] > .inner header img,
-.b-clubs-menu .members .b-user[id="6942"] img,
-.b-user.named_avatar[id="6942"] img {
-  content: url("https://desu.shikimori.one/system/user_images_h/original/26632f137ddf4e0401cc8c82/c83133d6214c4c149ae59b900e5917983b87f44e385f0aaa45499c81d2c92183.jpg");
-}
 /* tsukimizxc🍀 */
 .b-clubs-menu .members .b-user[id="11582"] img,
 .b-user.named_avatar[id="11582"] img,
